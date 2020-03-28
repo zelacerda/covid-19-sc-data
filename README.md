@@ -24,7 +24,7 @@ Assim, a ideia deste repositório é manter um *dataset* atualizado de casos, es
 
 ## To-do
 
-* Inclusão de dataset com medidas tomadas pelas prefeitura, se possível indicando a data em que elas entraram em vigor;
+* Inclusão de dataset com medidas tomadas pelas prefeituras, se possível indicando a data em que elas entraram em vigor;
 * Dados de evolução de mortes e recuperações, a medida em que forem sendo divulgados;
 * Ferramentas de *web scraping* que permitam a automação na atualização dos dados.
 
