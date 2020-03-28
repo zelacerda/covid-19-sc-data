@@ -1,0 +1,545 @@
+date,city,total_cases
+2020-03-12,Florianópolis,2.0
+2020-03-13,Florianópolis,2.0
+2020-03-14,Florianópolis,2.0
+2020-03-15,Florianópolis,2.0
+2020-03-16,Florianópolis,3.0
+2020-03-17,Florianópolis,3.0
+2020-03-18,Florianópolis,5.0
+2020-03-19,Florianópolis,6.0
+2020-03-20,Florianópolis,8.0
+2020-03-21,Florianópolis,10.0
+2020-03-22,Florianópolis,10.0
+2020-03-23,Florianópolis,15.0
+2020-03-24,Florianópolis,20.0
+2020-03-25,Florianópolis,16.0
+2020-03-26,Florianópolis,20.0
+2020-03-27,Florianópolis,27.0
+2020-03-12,Itajaí,0.0
+2020-03-13,Itajaí,0.0
+2020-03-14,Itajaí,0.0
+2020-03-15,Itajaí,0.0
+2020-03-16,Itajaí,0.0
+2020-03-17,Itajaí,0.0
+2020-03-18,Itajaí,0.0
+2020-03-19,Itajaí,0.0
+2020-03-20,Itajaí,1.0
+2020-03-21,Itajaí,6.0
+2020-03-22,Itajaí,7.0
+2020-03-23,Itajaí,7.0
+2020-03-24,Itajaí,10.0
+2020-03-25,Itajaí,12.0
+2020-03-26,Itajaí,16.0
+2020-03-27,Itajaí,18.0
+2020-03-12,Criciúma,0.0
+2020-03-13,Criciúma,0.0
+2020-03-14,Criciúma,0.0
+2020-03-15,Criciúma,0.0
+2020-03-16,Criciúma,0.0
+2020-03-17,Criciúma,0.0
+2020-03-18,Criciúma,0.0
+2020-03-19,Criciúma,0.0
+2020-03-20,Criciúma,1.0
+2020-03-21,Criciúma,6.0
+2020-03-22,Criciúma,7.0
+2020-03-23,Criciúma,9.0
+2020-03-24,Criciúma,9.0
+2020-03-25,Criciúma,11.0
+2020-03-26,Criciúma,12.0
+2020-03-27,Criciúma,12.0
+2020-03-12,Blumenau,0.0
+2020-03-13,Blumenau,0.0
+2020-03-14,Blumenau,0.0
+2020-03-15,Blumenau,0.0
+2020-03-16,Blumenau,0.0
+2020-03-17,Blumenau,0.0
+2020-03-18,Blumenau,0.0
+2020-03-19,Blumenau,0.0
+2020-03-20,Blumenau,0.0
+2020-03-21,Blumenau,0.0
+2020-03-22,Blumenau,6.0
+2020-03-23,Blumenau,7.0
+2020-03-24,Blumenau,7.0
+2020-03-25,Blumenau,9.0
+2020-03-26,Blumenau,12.0
+2020-03-27,Blumenau,12.0
+2020-03-12,Braço do Norte,0.0
+2020-03-13,Braço do Norte,0.0
+2020-03-14,Braço do Norte,0.0
+2020-03-15,Braço do Norte,1.0
+2020-03-16,Braço do Norte,1.0
+2020-03-17,Braço do Norte,1.0
+2020-03-18,Braço do Norte,2.0
+2020-03-19,Braço do Norte,4.0
+2020-03-20,Braço do Norte,4.0
+2020-03-21,Braço do Norte,6.0
+2020-03-22,Braço do Norte,7.0
+2020-03-23,Braço do Norte,9.0
+2020-03-24,Braço do Norte,9.0
+2020-03-25,Braço do Norte,9.0
+2020-03-26,Braço do Norte,9.0
+2020-03-27,Braço do Norte,9.0
+2020-03-12,Balneário Camboriú,0.0
+2020-03-13,Balneário Camboriú,0.0
+2020-03-14,Balneário Camboriú,0.0
+2020-03-15,Balneário Camboriú,0.0
+2020-03-16,Balneário Camboriú,0.0
+2020-03-17,Balneário Camboriú,0.0
+2020-03-18,Balneário Camboriú,2.0
+2020-03-19,Balneário Camboriú,4.0
+2020-03-20,Balneário Camboriú,4.0
+2020-03-21,Balneário Camboriú,6.0
+2020-03-22,Balneário Camboriú,6.0
+2020-03-23,Balneário Camboriú,6.0
+2020-03-24,Balneário Camboriú,9.0
+2020-03-25,Balneário Camboriú,7.0
+2020-03-26,Balneário Camboriú,8.0
+2020-03-27,Balneário Camboriú,9.0
+2020-03-12,Tubarão,0.0
+2020-03-13,Tubarão,0.0
+2020-03-14,Tubarão,0.0
+2020-03-15,Tubarão,0.0
+2020-03-16,Tubarão,0.0
+2020-03-17,Tubarão,0.0
+2020-03-18,Tubarão,2.0
+2020-03-19,Tubarão,2.0
+2020-03-20,Tubarão,2.0
+2020-03-21,Tubarão,6.0
+2020-03-22,Tubarão,6.0
+2020-03-23,Tubarão,7.0
+2020-03-24,Tubarão,9.0
+2020-03-25,Tubarão,8.0
+2020-03-26,Tubarão,8.0
+2020-03-27,Tubarão,8.0
+2020-03-12,São José,0.0
+2020-03-13,São José,0.0
+2020-03-14,São José,0.0
+2020-03-15,São José,0.0
+2020-03-16,São José,0.0
+2020-03-17,São José,0.0
+2020-03-18,São José,0.0
+2020-03-19,São José,1.0
+2020-03-20,São José,1.0
+2020-03-21,São José,2.0
+2020-03-22,São José,3.0
+2020-03-23,São José,4.0
+2020-03-24,São José,6.0
+2020-03-25,São José,5.0
+2020-03-26,São José,8.0
+2020-03-27,São José,8.0
+2020-03-12,Fora de SC,0.0
+2020-03-13,Fora de SC,0.0
+2020-03-14,Fora de SC,0.0
+2020-03-15,Fora de SC,0.0
+2020-03-16,Fora de SC,0.0
+2020-03-17,Fora de SC,0.0
+2020-03-18,Fora de SC,0.0
+2020-03-19,Fora de SC,0.0
+2020-03-20,Fora de SC,0.0
+2020-03-21,Fora de SC,0.0
+2020-03-22,Fora de SC,0.0
+2020-03-23,Fora de SC,0.0
+2020-03-24,Fora de SC,0.0
+2020-03-25,Fora de SC,8.0
+2020-03-26,Fora de SC,8.0
+2020-03-27,Fora de SC,8.0
+2020-03-12,Joinville,0.0
+2020-03-13,Joinville,1.0
+2020-03-14,Joinville,1.0
+2020-03-15,Joinville,1.0
+2020-03-16,Joinville,1.0
+2020-03-17,Joinville,1.0
+2020-03-18,Joinville,1.0
+2020-03-19,Joinville,2.0
+2020-03-20,Joinville,2.0
+2020-03-21,Joinville,4.0
+2020-03-22,Joinville,4.0
+2020-03-23,Joinville,4.0
+2020-03-24,Joinville,4.0
+2020-03-25,Joinville,5.0
+2020-03-26,Joinville,7.0
+2020-03-27,Joinville,8.0
+2020-03-12,Imbituba,0.0
+2020-03-13,Imbituba,0.0
+2020-03-14,Imbituba,0.0
+2020-03-15,Imbituba,0.0
+2020-03-16,Imbituba,0.0
+2020-03-17,Imbituba,0.0
+2020-03-18,Imbituba,0.0
+2020-03-19,Imbituba,0.0
+2020-03-20,Imbituba,1.0
+2020-03-21,Imbituba,2.0
+2020-03-22,Imbituba,2.0
+2020-03-23,Imbituba,2.0
+2020-03-24,Imbituba,4.0
+2020-03-25,Imbituba,4.0
+2020-03-26,Imbituba,5.0
+2020-03-27,Imbituba,5.0
+2020-03-12,Chapecó,0.0
+2020-03-13,Chapecó,0.0
+2020-03-14,Chapecó,0.0
+2020-03-15,Chapecó,0.0
+2020-03-16,Chapecó,0.0
+2020-03-17,Chapecó,0.0
+2020-03-18,Chapecó,0.0
+2020-03-19,Chapecó,0.0
+2020-03-20,Chapecó,0.0
+2020-03-21,Chapecó,2.0
+2020-03-22,Chapecó,2.0
+2020-03-23,Chapecó,2.0
+2020-03-24,Chapecó,3.0
+2020-03-25,Chapecó,2.0
+2020-03-26,Chapecó,4.0
+2020-03-27,Chapecó,4.0
+2020-03-12,Camboriú,0.0
+2020-03-13,Camboriú,0.0
+2020-03-14,Camboriú,0.0
+2020-03-15,Camboriú,0.0
+2020-03-16,Camboriú,0.0
+2020-03-17,Camboriú,0.0
+2020-03-18,Camboriú,0.0
+2020-03-19,Camboriú,0.0
+2020-03-20,Camboriú,0.0
+2020-03-21,Camboriú,0.0
+2020-03-22,Camboriú,0.0
+2020-03-23,Camboriú,0.0
+2020-03-24,Camboriú,0.0
+2020-03-25,Camboriú,2.0
+2020-03-26,Camboriú,4.0
+2020-03-27,Camboriú,4.0
+2020-03-12,Porto Belo,0.0
+2020-03-13,Porto Belo,0.0
+2020-03-14,Porto Belo,0.0
+2020-03-15,Porto Belo,0.0
+2020-03-16,Porto Belo,0.0
+2020-03-17,Porto Belo,0.0
+2020-03-18,Porto Belo,0.0
+2020-03-19,Porto Belo,0.0
+2020-03-20,Porto Belo,0.0
+2020-03-21,Porto Belo,0.0
+2020-03-22,Porto Belo,0.0
+2020-03-23,Porto Belo,2.0
+2020-03-24,Porto Belo,2.0
+2020-03-25,Porto Belo,2.0
+2020-03-26,Porto Belo,3.0
+2020-03-27,Porto Belo,3.0
+2020-03-12,Navegantes,0.0
+2020-03-13,Navegantes,0.0
+2020-03-14,Navegantes,0.0
+2020-03-15,Navegantes,0.0
+2020-03-16,Navegantes,0.0
+2020-03-17,Navegantes,0.0
+2020-03-18,Navegantes,0.0
+2020-03-19,Navegantes,0.0
+2020-03-20,Navegantes,0.0
+2020-03-21,Navegantes,1.0
+2020-03-22,Navegantes,1.0
+2020-03-23,Navegantes,1.0
+2020-03-24,Navegantes,3.0
+2020-03-25,Navegantes,3.0
+2020-03-26,Navegantes,3.0
+2020-03-27,Navegantes,3.0
+2020-03-12,Gravatal,0.0
+2020-03-13,Gravatal,0.0
+2020-03-14,Gravatal,0.0
+2020-03-15,Gravatal,0.0
+2020-03-16,Gravatal,0.0
+2020-03-17,Gravatal,0.0
+2020-03-18,Gravatal,0.0
+2020-03-19,Gravatal,0.0
+2020-03-20,Gravatal,0.0
+2020-03-21,Gravatal,1.0
+2020-03-22,Gravatal,1.0
+2020-03-23,Gravatal,2.0
+2020-03-24,Gravatal,2.0
+2020-03-25,Gravatal,3.0
+2020-03-26,Gravatal,3.0
+2020-03-27,Gravatal,3.0
+2020-03-12,Siderópolis,0.0
+2020-03-13,Siderópolis,0.0
+2020-03-14,Siderópolis,0.0
+2020-03-15,Siderópolis,0.0
+2020-03-16,Siderópolis,0.0
+2020-03-17,Siderópolis,0.0
+2020-03-18,Siderópolis,0.0
+2020-03-19,Siderópolis,0.0
+2020-03-20,Siderópolis,0.0
+2020-03-21,Siderópolis,0.0
+2020-03-22,Siderópolis,0.0
+2020-03-23,Siderópolis,0.0
+2020-03-24,Siderópolis,0.0
+2020-03-25,Siderópolis,0.0
+2020-03-26,Siderópolis,2.0
+2020-03-27,Siderópolis,2.0
+2020-03-12,Rancho Queimado,0.0
+2020-03-13,Rancho Queimado,0.0
+2020-03-14,Rancho Queimado,2.0
+2020-03-15,Rancho Queimado,2.0
+2020-03-16,Rancho Queimado,2.0
+2020-03-17,Rancho Queimado,2.0
+2020-03-18,Rancho Queimado,2.0
+2020-03-19,Rancho Queimado,2.0
+2020-03-20,Rancho Queimado,2.0
+2020-03-21,Rancho Queimado,2.0
+2020-03-22,Rancho Queimado,2.0
+2020-03-23,Rancho Queimado,2.0
+2020-03-24,Rancho Queimado,2.0
+2020-03-25,Rancho Queimado,2.0
+2020-03-26,Rancho Queimado,2.0
+2020-03-27,Rancho Queimado,2.0
+2020-03-12,Jaraguá do Sul,0.0
+2020-03-13,Jaraguá do Sul,0.0
+2020-03-14,Jaraguá do Sul,0.0
+2020-03-15,Jaraguá do Sul,0.0
+2020-03-16,Jaraguá do Sul,0.0
+2020-03-17,Jaraguá do Sul,0.0
+2020-03-18,Jaraguá do Sul,0.0
+2020-03-19,Jaraguá do Sul,0.0
+2020-03-20,Jaraguá do Sul,1.0
+2020-03-21,Jaraguá do Sul,1.0
+2020-03-22,Jaraguá do Sul,1.0
+2020-03-23,Jaraguá do Sul,2.0
+2020-03-24,Jaraguá do Sul,2.0
+2020-03-25,Jaraguá do Sul,2.0
+2020-03-26,Jaraguá do Sul,2.0
+2020-03-27,Jaraguá do Sul,2.0
+2020-03-12,Jaguaruna,0.0
+2020-03-13,Jaguaruna,0.0
+2020-03-14,Jaguaruna,0.0
+2020-03-15,Jaguaruna,0.0
+2020-03-16,Jaguaruna,0.0
+2020-03-17,Jaguaruna,0.0
+2020-03-18,Jaguaruna,0.0
+2020-03-19,Jaguaruna,0.0
+2020-03-20,Jaguaruna,0.0
+2020-03-21,Jaguaruna,1.0
+2020-03-22,Jaguaruna,1.0
+2020-03-23,Jaguaruna,1.0
+2020-03-24,Jaguaruna,2.0
+2020-03-25,Jaguaruna,2.0
+2020-03-26,Jaguaruna,2.0
+2020-03-27,Jaguaruna,2.0
+2020-03-12,Timbé do Sul,0.0
+2020-03-13,Timbé do Sul,0.0
+2020-03-14,Timbé do Sul,0.0
+2020-03-15,Timbé do Sul,0.0
+2020-03-16,Timbé do Sul,0.0
+2020-03-17,Timbé do Sul,0.0
+2020-03-18,Timbé do Sul,0.0
+2020-03-19,Timbé do Sul,0.0
+2020-03-20,Timbé do Sul,0.0
+2020-03-21,Timbé do Sul,0.0
+2020-03-22,Timbé do Sul,0.0
+2020-03-23,Timbé do Sul,0.0
+2020-03-24,Timbé do Sul,0.0
+2020-03-25,Timbé do Sul,0.0
+2020-03-26,Timbé do Sul,1.0
+2020-03-27,Timbé do Sul,1.0
+2020-03-12,Tijucas,0.0
+2020-03-13,Tijucas,0.0
+2020-03-14,Tijucas,0.0
+2020-03-15,Tijucas,0.0
+2020-03-16,Tijucas,0.0
+2020-03-17,Tijucas,0.0
+2020-03-18,Tijucas,0.0
+2020-03-19,Tijucas,0.0
+2020-03-20,Tijucas,0.0
+2020-03-21,Tijucas,0.0
+2020-03-22,Tijucas,0.0
+2020-03-23,Tijucas,0.0
+2020-03-24,Tijucas,1.0
+2020-03-25,Tijucas,1.0
+2020-03-26,Tijucas,1.0
+2020-03-27,Tijucas,1.0
+2020-03-12,São Pedro de Alcântara,0.0
+2020-03-13,São Pedro de Alcântara,0.0
+2020-03-14,São Pedro de Alcântara,0.0
+2020-03-15,São Pedro de Alcântara,0.0
+2020-03-16,São Pedro de Alcântara,0.0
+2020-03-17,São Pedro de Alcântara,0.0
+2020-03-18,São Pedro de Alcântara,0.0
+2020-03-19,São Pedro de Alcântara,0.0
+2020-03-20,São Pedro de Alcântara,0.0
+2020-03-21,São Pedro de Alcântara,0.0
+2020-03-22,São Pedro de Alcântara,0.0
+2020-03-23,São Pedro de Alcântara,0.0
+2020-03-24,São Pedro de Alcântara,0.0
+2020-03-25,São Pedro de Alcântara,1.0
+2020-03-26,São Pedro de Alcântara,1.0
+2020-03-27,São Pedro de Alcântara,1.0
+2020-03-12,São Ludgero,0.0
+2020-03-13,São Ludgero,0.0
+2020-03-14,São Ludgero,0.0
+2020-03-15,São Ludgero,0.0
+2020-03-16,São Ludgero,0.0
+2020-03-17,São Ludgero,0.0
+2020-03-18,São Ludgero,0.0
+2020-03-19,São Ludgero,0.0
+2020-03-20,São Ludgero,0.0
+2020-03-21,São Ludgero,0.0
+2020-03-22,São Ludgero,0.0
+2020-03-23,São Ludgero,0.0
+2020-03-24,São Ludgero,0.0
+2020-03-25,São Ludgero,1.0
+2020-03-26,São Ludgero,1.0
+2020-03-27,São Ludgero,1.0
+2020-03-12,São Lourenço do Oeste,0.0
+2020-03-13,São Lourenço do Oeste,0.0
+2020-03-14,São Lourenço do Oeste,0.0
+2020-03-15,São Lourenço do Oeste,0.0
+2020-03-16,São Lourenço do Oeste,0.0
+2020-03-17,São Lourenço do Oeste,0.0
+2020-03-18,São Lourenço do Oeste,0.0
+2020-03-19,São Lourenço do Oeste,0.0
+2020-03-20,São Lourenço do Oeste,0.0
+2020-03-21,São Lourenço do Oeste,0.0
+2020-03-22,São Lourenço do Oeste,0.0
+2020-03-23,São Lourenço do Oeste,0.0
+2020-03-24,São Lourenço do Oeste,0.0
+2020-03-25,São Lourenço do Oeste,0.0
+2020-03-26,São Lourenço do Oeste,0.0
+2020-03-27,São Lourenço do Oeste,1.0
+2020-03-12,Pomerode,0.0
+2020-03-13,Pomerode,0.0
+2020-03-14,Pomerode,0.0
+2020-03-15,Pomerode,0.0
+2020-03-16,Pomerode,0.0
+2020-03-17,Pomerode,0.0
+2020-03-18,Pomerode,0.0
+2020-03-19,Pomerode,0.0
+2020-03-20,Pomerode,1.0
+2020-03-21,Pomerode,1.0
+2020-03-22,Pomerode,1.0
+2020-03-23,Pomerode,1.0
+2020-03-24,Pomerode,1.0
+2020-03-25,Pomerode,1.0
+2020-03-26,Pomerode,1.0
+2020-03-27,Pomerode,1.0
+2020-03-12,Laguna,0.0
+2020-03-13,Laguna,0.0
+2020-03-14,Laguna,0.0
+2020-03-15,Laguna,0.0
+2020-03-16,Laguna,0.0
+2020-03-17,Laguna,0.0
+2020-03-18,Laguna,0.0
+2020-03-19,Laguna,0.0
+2020-03-20,Laguna,0.0
+2020-03-21,Laguna,0.0
+2020-03-22,Laguna,0.0
+2020-03-23,Laguna,0.0
+2020-03-24,Laguna,1.0
+2020-03-25,Laguna,1.0
+2020-03-26,Laguna,0.0
+2020-03-27,Laguna,1.0
+2020-03-12,Lages,0.0
+2020-03-13,Lages,0.0
+2020-03-14,Lages,0.0
+2020-03-15,Lages,0.0
+2020-03-16,Lages,0.0
+2020-03-17,Lages,0.0
+2020-03-18,Lages,0.0
+2020-03-19,Lages,0.0
+2020-03-20,Lages,0.0
+2020-03-21,Lages,0.0
+2020-03-22,Lages,1.0
+2020-03-23,Lages,1.0
+2020-03-24,Lages,1.0
+2020-03-25,Lages,1.0
+2020-03-26,Lages,1.0
+2020-03-27,Lages,1.0
+2020-03-12,Itapema,0.0
+2020-03-13,Itapema,0.0
+2020-03-14,Itapema,0.0
+2020-03-15,Itapema,0.0
+2020-03-16,Itapema,0.0
+2020-03-17,Itapema,0.0
+2020-03-18,Itapema,0.0
+2020-03-19,Itapema,0.0
+2020-03-20,Itapema,0.0
+2020-03-21,Itapema,0.0
+2020-03-22,Itapema,0.0
+2020-03-23,Itapema,0.0
+2020-03-24,Itapema,0.0
+2020-03-25,Itapema,0.0
+2020-03-26,Itapema,1.0
+2020-03-27,Itapema,1.0
+2020-03-12,Içara,0.0
+2020-03-13,Içara,0.0
+2020-03-14,Içara,0.0
+2020-03-15,Içara,0.0
+2020-03-16,Içara,0.0
+2020-03-17,Içara,0.0
+2020-03-18,Içara,0.0
+2020-03-19,Içara,0.0
+2020-03-20,Içara,0.0
+2020-03-21,Içara,0.0
+2020-03-22,Içara,0.0
+2020-03-23,Içara,1.0
+2020-03-24,Içara,1.0
+2020-03-25,Içara,1.0
+2020-03-26,Içara,1.0
+2020-03-27,Içara,1.0
+2020-03-12,Gaspar,0.0
+2020-03-13,Gaspar,0.0
+2020-03-14,Gaspar,0.0
+2020-03-15,Gaspar,0.0
+2020-03-16,Gaspar,0.0
+2020-03-17,Gaspar,0.0
+2020-03-18,Gaspar,0.0
+2020-03-19,Gaspar,0.0
+2020-03-20,Gaspar,0.0
+2020-03-21,Gaspar,0.0
+2020-03-22,Gaspar,0.0
+2020-03-23,Gaspar,1.0
+2020-03-24,Gaspar,1.0
+2020-03-25,Gaspar,1.0
+2020-03-26,Gaspar,1.0
+2020-03-27,Gaspar,1.0
+2020-03-12,Canelinha,0.0
+2020-03-13,Canelinha,0.0
+2020-03-14,Canelinha,0.0
+2020-03-15,Canelinha,0.0
+2020-03-16,Canelinha,0.0
+2020-03-17,Canelinha,0.0
+2020-03-18,Canelinha,0.0
+2020-03-19,Canelinha,0.0
+2020-03-20,Canelinha,0.0
+2020-03-21,Canelinha,0.0
+2020-03-22,Canelinha,0.0
+2020-03-23,Canelinha,0.0
+2020-03-24,Canelinha,0.0
+2020-03-25,Canelinha,1.0
+2020-03-26,Canelinha,1.0
+2020-03-27,Canelinha,1.0
+2020-03-12,Antonio Carlos,0.0
+2020-03-13,Antonio Carlos,0.0
+2020-03-14,Antonio Carlos,0.0
+2020-03-15,Antonio Carlos,0.0
+2020-03-16,Antonio Carlos,0.0
+2020-03-17,Antonio Carlos,0.0
+2020-03-18,Antonio Carlos,0.0
+2020-03-19,Antonio Carlos,0.0
+2020-03-20,Antonio Carlos,0.0
+2020-03-21,Antonio Carlos,0.0
+2020-03-22,Antonio Carlos,0.0
+2020-03-23,Antonio Carlos,0.0
+2020-03-24,Antonio Carlos,0.0
+2020-03-25,Antonio Carlos,0.0
+2020-03-26,Antonio Carlos,0.0
+2020-03-27,Antonio Carlos,1.0
+2020-03-12,Balneário Arroio do Silva,0.0
+2020-03-13,Balneário Arroio do Silva,0.0
+2020-03-14,Balneário Arroio do Silva,0.0
+2020-03-15,Balneário Arroio do Silva,0.0
+2020-03-16,Balneário Arroio do Silva,0.0
+2020-03-17,Balneário Arroio do Silva,0.0
+2020-03-18,Balneário Arroio do Silva,0.0
+2020-03-19,Balneário Arroio do Silva,0.0
+2020-03-20,Balneário Arroio do Silva,0.0
+2020-03-21,Balneário Arroio do Silva,0.0
+2020-03-22,Balneário Arroio do Silva,0.0
+2020-03-23,Balneário Arroio do Silva,0.0
+2020-03-24,Balneário Arroio do Silva,0.0
+2020-03-25,Balneário Arroio do Silva,1.0
+2020-03-26,Balneário Arroio do Silva,1.0
+2020-03-27,Balneário Arroio do Silva,1.0
