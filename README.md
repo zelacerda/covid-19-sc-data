@@ -14,6 +14,11 @@ O governo de SC tampouco está sensível à disponibilização de dados brutos p
 
 Assim, a ideia deste repositório é manter um *dataset* atualizado de casos, estruturado de acordo com as metodologias corretas de Ciência de Dados, além de notebooks com análises a partir destas informações.
 
+## Notebooks com análises
+
+* [Tutorial de uso e análise temporal simples](https://github.com/zelacerda/covid-19-sc-data/blob/master/corona_sc.ipynb)
+
+
 ## To-do
 
 * Inclusão de dataset com medidas tomadas pelas prefeitura, se possível indicando a data em que elas entraram em vigor;
