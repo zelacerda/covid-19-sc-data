@@ -18,13 +18,11 @@ Assim, a ideia deste repositório é manter um *dataset* atualizado de casos, es
 
 * [Tutorial de uso e análise temporal simples](https://github.com/zelacerda/covid-19-sc-data/blob/master/corona_sc.ipynb)
 
-## Dataset (atualizado com dados de 28/3)
+## Dataset (atualizado com dados de 29/3)
 
 * [Dataset](https://github.com/zelacerda/covid-19-sc-data/blob/master/dataset.csv)
 
 ## To-do
 
 * Inclusão de dataset com medidas tomadas pelas prefeituras, se possível indicando a data em que elas entraram em vigor;
-* Dados de evolução de mortes e recuperações, a medida em que forem sendo divulgados;
-* Ferramentas de *web scraping* que permitam a automação na atualização dos dados.
-
+* Dados de evolução de mortes e recuperações, a medida em que forem sendo divulgados.
