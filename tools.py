@@ -53,7 +53,7 @@ def scrap_paragraph(paragraph, date=None, pattern=1, outside=0):
     if pattern == 1:
         regexp = '(?:[,e: ]+ )([\w ]+) (?:\()([\d]+)'
     elif pattern == 2:
-        regexp = '(?:\\n)([\w ]+)(?: – )([\d]+)'
+        regexp = '(?:\\n)([\w ]+)(?: [–-]? )([\d]+)'
     
     occurrences = re.findall(regexp, paragraph)
     
