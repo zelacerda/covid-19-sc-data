@@ -18,6 +18,7 @@ date,city,total_cases
 2020-03-28,Florianópolis,30.0
 2020-03-29,Florianópolis,40.0
 2020-03-30,Florianópolis,50.0
+2020-03-31,Florianópolis,58.0
 2020-03-12,Itajaí,0.0
 2020-03-13,Itajaí,0.0
 2020-03-14,Itajaí,0.0
@@ -37,6 +38,7 @@ date,city,total_cases
 2020-03-28,Itajaí,18.0
 2020-03-29,Itajaí,18.0
 2020-03-30,Itajaí,18.0
+2020-03-31,Itajaí,18.0
 2020-03-12,Criciúma,0.0
 2020-03-13,Criciúma,0.0
 2020-03-14,Criciúma,0.0
@@ -56,6 +58,7 @@ date,city,total_cases
 2020-03-28,Criciúma,13.0
 2020-03-29,Criciúma,13.0
 2020-03-30,Criciúma,15.0
+2020-03-31,Criciúma,17.0
 2020-03-12,Blumenau,0.0
 2020-03-13,Blumenau,0.0
 2020-03-14,Blumenau,0.0
@@ -75,6 +78,7 @@ date,city,total_cases
 2020-03-28,Blumenau,12.0
 2020-03-29,Blumenau,12.0
 2020-03-30,Blumenau,14.0
+2020-03-31,Blumenau,19.0
 2020-03-12,Braço do Norte,0.0
 2020-03-13,Braço do Norte,0.0
 2020-03-14,Braço do Norte,0.0
@@ -94,6 +98,7 @@ date,city,total_cases
 2020-03-28,Braço do Norte,12.0
 2020-03-29,Braço do Norte,12.0
 2020-03-30,Braço do Norte,12.0
+2020-03-31,Braço do Norte,12.0
 2020-03-12,Balneário Camboriú,0.0
 2020-03-13,Balneário Camboriú,0.0
 2020-03-14,Balneário Camboriú,0.0
@@ -113,6 +118,7 @@ date,city,total_cases
 2020-03-28,Balneário Camboriú,9.0
 2020-03-29,Balneário Camboriú,9.0
 2020-03-30,Balneário Camboriú,9.0
+2020-03-31,Balneário Camboriú,9.0
 2020-03-12,Tubarão,0.0
 2020-03-13,Tubarão,0.0
 2020-03-14,Tubarão,0.0
@@ -132,6 +138,7 @@ date,city,total_cases
 2020-03-28,Tubarão,8.0
 2020-03-29,Tubarão,9.0
 2020-03-30,Tubarão,9.0
+2020-03-31,Tubarão,9.0
 2020-03-12,São José,0.0
 2020-03-13,São José,0.0
 2020-03-14,São José,0.0
@@ -151,6 +158,7 @@ date,city,total_cases
 2020-03-28,São José,9.0
 2020-03-29,São José,10.0
 2020-03-30,São José,10.0
+2020-03-31,São José,10.0
 2020-03-12,Fora de SC,0.0
 2020-03-13,Fora de SC,0.0
 2020-03-14,Fora de SC,0.0
@@ -170,6 +178,7 @@ date,city,total_cases
 2020-03-28,Fora de SC,8.0
 2020-03-29,Fora de SC,8.0
 2020-03-30,Fora de SC,8.0
+2020-03-31,Fora de SC,8.0
 2020-03-12,Joinville,0.0
 2020-03-13,Joinville,1.0
 2020-03-14,Joinville,1.0
@@ -189,6 +198,7 @@ date,city,total_cases
 2020-03-28,Joinville,9.0
 2020-03-29,Joinville,9.0
 2020-03-30,Joinville,14.0
+2020-03-31,Joinville,14.0
 2020-03-12,Imbituba,0.0
 2020-03-13,Imbituba,0.0
 2020-03-14,Imbituba,0.0
@@ -208,6 +218,7 @@ date,city,total_cases
 2020-03-28,Imbituba,5.0
 2020-03-29,Imbituba,5.0
 2020-03-30,Imbituba,5.0
+2020-03-31,Imbituba,5.0
 2020-03-12,Chapecó,0.0
 2020-03-13,Chapecó,0.0
 2020-03-14,Chapecó,0.0
@@ -227,6 +238,7 @@ date,city,total_cases
 2020-03-28,Chapecó,5.0
 2020-03-29,Chapecó,5.0
 2020-03-30,Chapecó,5.0
+2020-03-31,Chapecó,5.0
 2020-03-12,Camboriú,0.0
 2020-03-13,Camboriú,0.0
 2020-03-14,Camboriú,0.0
@@ -246,6 +258,7 @@ date,city,total_cases
 2020-03-28,Camboriú,7.0
 2020-03-29,Camboriú,7.0
 2020-03-30,Camboriú,7.0
+2020-03-31,Camboriú,7.0
 2020-03-12,Porto Belo,0.0
 2020-03-13,Porto Belo,0.0
 2020-03-14,Porto Belo,0.0
@@ -265,6 +278,7 @@ date,city,total_cases
 2020-03-28,Porto Belo,4.0
 2020-03-29,Porto Belo,4.0
 2020-03-30,Porto Belo,4.0
+2020-03-31,Porto Belo,4.0
 2020-03-12,Navegantes,0.0
 2020-03-13,Navegantes,0.0
 2020-03-14,Navegantes,0.0
@@ -284,6 +298,7 @@ date,city,total_cases
 2020-03-28,Navegantes,3.0
 2020-03-29,Navegantes,3.0
 2020-03-30,Navegantes,3.0
+2020-03-31,Navegantes,3.0
 2020-03-12,Gravatal,0.0
 2020-03-13,Gravatal,0.0
 2020-03-14,Gravatal,0.0
@@ -303,6 +318,7 @@ date,city,total_cases
 2020-03-28,Gravatal,3.0
 2020-03-29,Gravatal,3.0
 2020-03-30,Gravatal,3.0
+2020-03-31,Gravatal,3.0
 2020-03-12,Siderópolis,0.0
 2020-03-13,Siderópolis,0.0
 2020-03-14,Siderópolis,0.0
@@ -322,6 +338,7 @@ date,city,total_cases
 2020-03-28,Siderópolis,2.0
 2020-03-29,Siderópolis,2.0
 2020-03-30,Siderópolis,2.0
+2020-03-31,Siderópolis,2.0
 2020-03-12,Rancho Queimado,0.0
 2020-03-13,Rancho Queimado,0.0
 2020-03-14,Rancho Queimado,2.0
@@ -341,6 +358,7 @@ date,city,total_cases
 2020-03-28,Rancho Queimado,2.0
 2020-03-29,Rancho Queimado,2.0
 2020-03-30,Rancho Queimado,2.0
+2020-03-31,Rancho Queimado,2.0
 2020-03-12,Jaraguá do Sul,0.0
 2020-03-13,Jaraguá do Sul,0.0
 2020-03-14,Jaraguá do Sul,0.0
@@ -360,6 +378,7 @@ date,city,total_cases
 2020-03-28,Jaraguá do Sul,2.0
 2020-03-29,Jaraguá do Sul,2.0
 2020-03-30,Jaraguá do Sul,3.0
+2020-03-31,Jaraguá do Sul,3.0
 2020-03-12,Jaguaruna,0.0
 2020-03-13,Jaguaruna,0.0
 2020-03-14,Jaguaruna,0.0
@@ -379,6 +398,7 @@ date,city,total_cases
 2020-03-28,Jaguaruna,2.0
 2020-03-29,Jaguaruna,2.0
 2020-03-30,Jaguaruna,2.0
+2020-03-31,Jaguaruna,2.0
 2020-03-12,Timbé do Sul,0.0
 2020-03-13,Timbé do Sul,0.0
 2020-03-14,Timbé do Sul,0.0
@@ -398,6 +418,7 @@ date,city,total_cases
 2020-03-28,Timbé do Sul,1.0
 2020-03-29,Timbé do Sul,1.0
 2020-03-30,Timbé do Sul,1.0
+2020-03-31,Timbé do Sul,1.0
 2020-03-12,Tijucas,0.0
 2020-03-13,Tijucas,0.0
 2020-03-14,Tijucas,0.0
@@ -417,6 +438,7 @@ date,city,total_cases
 2020-03-28,Tijucas,1.0
 2020-03-29,Tijucas,1.0
 2020-03-30,Tijucas,1.0
+2020-03-31,Tijucas,1.0
 2020-03-12,São Pedro de Alcântara,0.0
 2020-03-13,São Pedro de Alcântara,0.0
 2020-03-14,São Pedro de Alcântara,0.0
@@ -436,6 +458,7 @@ date,city,total_cases
 2020-03-28,São Pedro de Alcântara,1.0
 2020-03-29,São Pedro de Alcântara,1.0
 2020-03-30,São Pedro de Alcântara,1.0
+2020-03-31,São Pedro de Alcântara,1.0
 2020-03-12,São Ludgero,0.0
 2020-03-13,São Ludgero,0.0
 2020-03-14,São Ludgero,0.0
@@ -455,6 +478,7 @@ date,city,total_cases
 2020-03-28,São Ludgero,1.0
 2020-03-29,São Ludgero,1.0
 2020-03-30,São Ludgero,1.0
+2020-03-31,São Ludgero,1.0
 2020-03-12,São Lourenço do Oeste,0.0
 2020-03-13,São Lourenço do Oeste,0.0
 2020-03-14,São Lourenço do Oeste,0.0
@@ -474,6 +498,7 @@ date,city,total_cases
 2020-03-28,São Lourenço do Oeste,1.0
 2020-03-29,São Lourenço do Oeste,1.0
 2020-03-30,São Lourenço do Oeste,1.0
+2020-03-31,São Lourenço do Oeste,1.0
 2020-03-12,Pomerode,0.0
 2020-03-13,Pomerode,0.0
 2020-03-14,Pomerode,0.0
@@ -493,6 +518,7 @@ date,city,total_cases
 2020-03-28,Pomerode,1.0
 2020-03-29,Pomerode,1.0
 2020-03-30,Pomerode,1.0
+2020-03-31,Pomerode,1.0
 2020-03-12,Laguna,0.0
 2020-03-13,Laguna,0.0
 2020-03-14,Laguna,0.0
@@ -512,6 +538,7 @@ date,city,total_cases
 2020-03-28,Laguna,1.0
 2020-03-29,Laguna,1.0
 2020-03-30,Laguna,1.0
+2020-03-31,Laguna,1.0
 2020-03-12,Lages,0.0
 2020-03-13,Lages,0.0
 2020-03-14,Lages,0.0
@@ -531,6 +558,7 @@ date,city,total_cases
 2020-03-28,Lages,1.0
 2020-03-29,Lages,1.0
 2020-03-30,Lages,1.0
+2020-03-31,Lages,1.0
 2020-03-12,Itapema,0.0
 2020-03-13,Itapema,0.0
 2020-03-14,Itapema,0.0
@@ -550,6 +578,7 @@ date,city,total_cases
 2020-03-28,Itapema,1.0
 2020-03-29,Itapema,1.0
 2020-03-30,Itapema,2.0
+2020-03-31,Itapema,2.0
 2020-03-12,Içara,0.0
 2020-03-13,Içara,0.0
 2020-03-14,Içara,0.0
@@ -569,6 +598,7 @@ date,city,total_cases
 2020-03-28,Içara,1.0
 2020-03-29,Içara,1.0
 2020-03-30,Içara,1.0
+2020-03-31,Içara,1.0
 2020-03-12,Gaspar,0.0
 2020-03-13,Gaspar,0.0
 2020-03-14,Gaspar,0.0
@@ -588,6 +618,7 @@ date,city,total_cases
 2020-03-28,Gaspar,2.0
 2020-03-29,Gaspar,2.0
 2020-03-30,Gaspar,2.0
+2020-03-31,Gaspar,2.0
 2020-03-12,Canelinha,0.0
 2020-03-13,Canelinha,0.0
 2020-03-14,Canelinha,0.0
@@ -607,6 +638,7 @@ date,city,total_cases
 2020-03-28,Canelinha,1.0
 2020-03-29,Canelinha,1.0
 2020-03-30,Canelinha,1.0
+2020-03-31,Canelinha,1.0
 2020-03-12,Antônio Carlos,0.0
 2020-03-13,Antônio Carlos,0.0
 2020-03-14,Antônio Carlos,0.0
@@ -626,6 +658,7 @@ date,city,total_cases
 2020-03-28,Antônio Carlos,1.0
 2020-03-29,Antônio Carlos,1.0
 2020-03-30,Antônio Carlos,1.0
+2020-03-31,Antônio Carlos,1.0
 2020-03-12,Balneário Arroio do Silva,0.0
 2020-03-13,Balneário Arroio do Silva,0.0
 2020-03-14,Balneário Arroio do Silva,0.0
@@ -645,6 +678,7 @@ date,city,total_cases
 2020-03-28,Balneário Arroio do Silva,1.0
 2020-03-29,Balneário Arroio do Silva,1.0
 2020-03-30,Balneário Arroio do Silva,1.0
+2020-03-31,Balneário Arroio do Silva,1.0
 2020-03-12,Brusque,0.0
 2020-03-13,Brusque,0.0
 2020-03-14,Brusque,0.0
@@ -664,6 +698,7 @@ date,city,total_cases
 2020-03-28,Brusque,2.0
 2020-03-29,Brusque,2.0
 2020-03-30,Brusque,2.0
+2020-03-31,Brusque,3.0
 2020-03-12,Papanduva,0.0
 2020-03-13,Papanduva,0.0
 2020-03-14,Papanduva,0.0
@@ -683,6 +718,7 @@ date,city,total_cases
 2020-03-28,Papanduva,2.0
 2020-03-29,Papanduva,2.0
 2020-03-30,Papanduva,2.0
+2020-03-31,Papanduva,2.0
 2020-03-12,São Francisco do Sul,0.0
 2020-03-13,São Francisco do Sul,0.0
 2020-03-14,São Francisco do Sul,0.0
@@ -702,6 +738,7 @@ date,city,total_cases
 2020-03-28,São Francisco do Sul,1.0
 2020-03-29,São Francisco do Sul,1.0
 2020-03-30,São Francisco do Sul,1.0
+2020-03-31,São Francisco do Sul,1.0
 2020-03-12,Urussanga,0.0
 2020-03-13,Urussanga,0.0
 2020-03-14,Urussanga,0.0
@@ -721,6 +758,7 @@ date,city,total_cases
 2020-03-28,Urussanga,1.0
 2020-03-29,Urussanga,1.0
 2020-03-30,Urussanga,1.0
+2020-03-31,Urussanga,1.0
 2020-03-12,Indaial,0.0
 2020-03-13,Indaial,0.0
 2020-03-14,Indaial,0.0
@@ -740,3 +778,24 @@ date,city,total_cases
 2020-03-28,Indaial,0.0
 2020-03-29,Indaial,1.0
 2020-03-30,Indaial,1.0
+2020-03-31,Indaial,1.0
+2020-03-12,Pescaria Brava,0.0
+2020-03-13,Pescaria Brava,0.0
+2020-03-14,Pescaria Brava,0.0
+2020-03-15,Pescaria Brava,0.0
+2020-03-16,Pescaria Brava,0.0
+2020-03-17,Pescaria Brava,0.0
+2020-03-18,Pescaria Brava,0.0
+2020-03-19,Pescaria Brava,0.0
+2020-03-20,Pescaria Brava,0.0
+2020-03-21,Pescaria Brava,0.0
+2020-03-22,Pescaria Brava,0.0
+2020-03-23,Pescaria Brava,0.0
+2020-03-24,Pescaria Brava,0.0
+2020-03-25,Pescaria Brava,0.0
+2020-03-26,Pescaria Brava,0.0
+2020-03-27,Pescaria Brava,0.0
+2020-03-28,Pescaria Brava,0.0
+2020-03-29,Pescaria Brava,0.0
+2020-03-30,Pescaria Brava,0.0
+2020-03-31,Pescaria Brava,1.0
