@@ -1,7 +1,7 @@
 # covid-19-sc-data
 Análise de dados sobre a evolução da epidemia de COVID-19 em Santa Catarina
 
-## Motivação (atualizado em 28/3)
+## Motivação
 No Estado de Santa Catarina, as prefeituras têm tomado iniciativas distintas de políticas públicas relacionadas à contenção do espalhamento do novo coronavirus. Alguns municípios tomam medidas mais restritivas, ao passo que outros pretendem iniciar uma flexibilização. Isso torna importante uma análise temporal da evolução da doença a nível de município, de modo a permitir comparações e identificar a eficácia das medidas tomadas ao longo do tempo.
 
 Os principais grupos de mídia em SC, a [NSC](https://www.nsctotal.com.br/coronavirus/mapa-de-evolucao-do-virus) e [RIC](https://ndmais.com.br/coronavirus/mapa-coronavirus), têm divulgado paineis (ou mapas) interativos com a evolução dos casos. Apesar de louváveis, as iniciativas ainda pecam por três motivos:
@@ -18,7 +18,7 @@ Assim, a ideia deste repositório é manter um *dataset* atualizado de casos, es
 
 * [Tutorial de uso e análise temporal simples](https://github.com/zelacerda/covid-19-sc-data/blob/master/corona_sc.ipynb)
 
-## Dataset (atualizado com dados de 30/3)
+## Dataset (atualizado com dados de 1/4)
 
 * [Dataset](https://github.com/zelacerda/covid-19-sc-data/blob/master/dataset.csv)
 
