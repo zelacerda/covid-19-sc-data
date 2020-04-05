@@ -22,7 +22,7 @@ date,city,total_cases
 2020-04-01,Florianópolis,60.0
 2020-04-02,Florianópolis,71.0
 2020-04-03,Florianópolis,78.0
-2020-04-04,Florianópolis,90.0
+2020-04-04,Florianópolis,91.0
 2020-03-12,Itajaí,0.0
 2020-03-13,Itajaí,0.0
 2020-03-14,Itajaí,0.0
@@ -70,7 +70,7 @@ date,city,total_cases
 2020-04-01,Criciúma,21.0
 2020-04-02,Criciúma,23.0
 2020-04-03,Criciúma,23.0
-2020-04-04,Criciúma,23.0
+2020-04-04,Criciúma,27.0
 2020-03-12,Blumenau,0.0
 2020-03-13,Blumenau,0.0
 2020-03-14,Blumenau,0.0
@@ -94,7 +94,7 @@ date,city,total_cases
 2020-04-01,Blumenau,22.0
 2020-04-02,Blumenau,22.0
 2020-04-03,Blumenau,24.0
-2020-04-04,Blumenau,25.0
+2020-04-04,Blumenau,26.0
 2020-03-12,Braço do Norte,0.0
 2020-03-13,Braço do Norte,0.0
 2020-03-14,Braço do Norte,0.0
@@ -166,7 +166,7 @@ date,city,total_cases
 2020-04-01,Tubarão,10.0
 2020-04-02,Tubarão,14.0
 2020-04-03,Tubarão,15.0
-2020-04-04,Tubarão,16.0
+2020-04-04,Tubarão,18.0
 2020-03-12,São José,0.0
 2020-03-13,São José,0.0
 2020-03-14,São José,0.0
@@ -190,7 +190,7 @@ date,city,total_cases
 2020-04-01,São José,10.0
 2020-04-02,São José,12.0
 2020-04-03,São José,12.0
-2020-04-04,São José,14.0
+2020-04-04,São José,15.0
 2020-03-12,Joinville,0.0
 2020-03-13,Joinville,1.0
 2020-03-14,Joinville,1.0
@@ -214,7 +214,7 @@ date,city,total_cases
 2020-04-01,Joinville,14.0
 2020-04-02,Joinville,16.0
 2020-04-03,Joinville,17.0
-2020-04-04,Joinville,18.0
+2020-04-04,Joinville,20.0
 2020-03-12,Imbituba,0.0
 2020-03-13,Imbituba,0.0
 2020-03-14,Imbituba,0.0
@@ -382,7 +382,7 @@ date,city,total_cases
 2020-04-01,Siderópolis,2.0
 2020-04-02,Siderópolis,2.0
 2020-04-03,Siderópolis,2.0
-2020-04-04,Siderópolis,2.0
+2020-04-04,Siderópolis,3.0
 2020-03-12,Rancho Queimado,0.0
 2020-03-13,Rancho Queimado,0.0
 2020-03-14,Rancho Queimado,2.0
@@ -430,7 +430,7 @@ date,city,total_cases
 2020-04-01,Jaraguá do Sul,4.0
 2020-04-02,Jaraguá do Sul,4.0
 2020-04-03,Jaraguá do Sul,5.0
-2020-04-04,Jaraguá do Sul,5.0
+2020-04-04,Jaraguá do Sul,6.0
 2020-03-12,Jaguaruna,0.0
 2020-03-13,Jaguaruna,0.0
 2020-03-14,Jaguaruna,0.0
@@ -622,7 +622,7 @@ date,city,total_cases
 2020-04-01,Laguna,1.0
 2020-04-02,Laguna,1.0
 2020-04-03,Laguna,1.0
-2020-04-04,Laguna,1.0
+2020-04-04,Laguna,2.0
 2020-03-12,Lages,0.0
 2020-03-13,Lages,0.0
 2020-03-14,Lages,0.0
@@ -670,7 +670,7 @@ date,city,total_cases
 2020-04-01,Itapema,2.0
 2020-04-02,Itapema,2.0
 2020-04-03,Itapema,2.0
-2020-04-04,Itapema,2.0
+2020-04-04,Itapema,3.0
 2020-03-12,Içara,0.0
 2020-03-13,Içara,0.0
 2020-03-14,Içara,0.0
@@ -814,7 +814,7 @@ date,city,total_cases
 2020-04-01,Brusque,3.0
 2020-04-02,Brusque,3.0
 2020-04-03,Brusque,3.0
-2020-04-04,Brusque,4.0
+2020-04-04,Brusque,6.0
 2020-03-12,Papanduva,0.0
 2020-03-13,Papanduva,0.0
 2020-03-14,Papanduva,0.0
@@ -1150,7 +1150,7 @@ date,city,total_cases
 2020-04-01,Palhoça,0.0
 2020-04-02,Palhoça,0.0
 2020-04-03,Palhoça,1.0
-2020-04-04,Palhoça,2.0
+2020-04-04,Palhoça,3.0
 2020-03-12,Sombrio,0.0
 2020-03-13,Sombrio,0.0
 2020-03-14,Sombrio,0.0
@@ -1174,7 +1174,7 @@ date,city,total_cases
 2020-04-01,Sombrio,0.0
 2020-04-02,Sombrio,0.0
 2020-04-03,Sombrio,0.0
-2020-04-04,Sombrio,1.0
+2020-04-04,Sombrio,2.0
 2020-03-12,Outros estados,0.0
 2020-03-13,Outros estados,0.0
 2020-03-14,Outros estados,0.0
@@ -1223,3 +1223,75 @@ date,city,total_cases
 2020-04-02,Outros países,3.0
 2020-04-03,Outros países,3.0
 2020-04-04,Outros países,3.0
+2020-03-12,Abelardo Luz,0.0
+2020-03-13,Abelardo Luz,0.0
+2020-03-14,Abelardo Luz,0.0
+2020-03-15,Abelardo Luz,0.0
+2020-03-16,Abelardo Luz,0.0
+2020-03-17,Abelardo Luz,0.0
+2020-03-18,Abelardo Luz,0.0
+2020-03-19,Abelardo Luz,0.0
+2020-03-20,Abelardo Luz,0.0
+2020-03-21,Abelardo Luz,0.0
+2020-03-22,Abelardo Luz,0.0
+2020-03-23,Abelardo Luz,0.0
+2020-03-24,Abelardo Luz,0.0
+2020-03-25,Abelardo Luz,0.0
+2020-03-26,Abelardo Luz,0.0
+2020-03-27,Abelardo Luz,0.0
+2020-03-28,Abelardo Luz,0.0
+2020-03-29,Abelardo Luz,0.0
+2020-03-30,Abelardo Luz,0.0
+2020-03-31,Abelardo Luz,0.0
+2020-04-01,Abelardo Luz,0.0
+2020-04-02,Abelardo Luz,0.0
+2020-04-03,Abelardo Luz,0.0
+2020-04-04,Abelardo Luz,1.0
+2020-03-12,Balneário Gaivota,0.0
+2020-03-13,Balneário Gaivota,0.0
+2020-03-14,Balneário Gaivota,0.0
+2020-03-15,Balneário Gaivota,0.0
+2020-03-16,Balneário Gaivota,0.0
+2020-03-17,Balneário Gaivota,0.0
+2020-03-18,Balneário Gaivota,0.0
+2020-03-19,Balneário Gaivota,0.0
+2020-03-20,Balneário Gaivota,0.0
+2020-03-21,Balneário Gaivota,0.0
+2020-03-22,Balneário Gaivota,0.0
+2020-03-23,Balneário Gaivota,0.0
+2020-03-24,Balneário Gaivota,0.0
+2020-03-25,Balneário Gaivota,0.0
+2020-03-26,Balneário Gaivota,0.0
+2020-03-27,Balneário Gaivota,0.0
+2020-03-28,Balneário Gaivota,0.0
+2020-03-29,Balneário Gaivota,0.0
+2020-03-30,Balneário Gaivota,0.0
+2020-03-31,Balneário Gaivota,0.0
+2020-04-01,Balneário Gaivota,0.0
+2020-04-02,Balneário Gaivota,0.0
+2020-04-03,Balneário Gaivota,0.0
+2020-04-04,Balneário Gaivota,1.0
+2020-03-12,Itapiranga,0.0
+2020-03-13,Itapiranga,0.0
+2020-03-14,Itapiranga,0.0
+2020-03-15,Itapiranga,0.0
+2020-03-16,Itapiranga,0.0
+2020-03-17,Itapiranga,0.0
+2020-03-18,Itapiranga,0.0
+2020-03-19,Itapiranga,0.0
+2020-03-20,Itapiranga,0.0
+2020-03-21,Itapiranga,0.0
+2020-03-22,Itapiranga,0.0
+2020-03-23,Itapiranga,0.0
+2020-03-24,Itapiranga,0.0
+2020-03-25,Itapiranga,0.0
+2020-03-26,Itapiranga,0.0
+2020-03-27,Itapiranga,0.0
+2020-03-28,Itapiranga,0.0
+2020-03-29,Itapiranga,0.0
+2020-03-30,Itapiranga,0.0
+2020-03-31,Itapiranga,0.0
+2020-04-01,Itapiranga,0.0
+2020-04-02,Itapiranga,0.0
+2020-04-03,Itapiranga,0.0
+2020-04-04,Itapiranga,1.0
