@@ -31,7 +31,7 @@ def load_dataset(cities=None):
         return df[df['city'].isin(cities)]
     
 
-def scrap_paragraph(paragraph, date=None, pattern=1, outside=0):
+def scrap_paragraph(paragraph, date=None, pattern=1):
     """
     Extract SC cities total cases from daily bulletins.
     Is date is not given, gets the actual day.
@@ -61,19 +61,17 @@ def scrap_paragraph(paragraph, date=None, pattern=1, outside=0):
     data['date'] = [date]
     for o in occurrences:
         data[o[0]] = [int(o[1])]
-    
-    data['Fora de SC'] = [outside]
-    
+  
     return pd.DataFrame(data)
 
 
-def update_tabular(paragraph, pattern=1, date=None, outside=0):
+def update_tabular(paragraph, pattern=1, date=None):
     """
     Updates the saved tabular dataset with numbers
     scrapped from SC government bulletin.
     """
     old_df = pd.read_csv('tabular.csv')
-    new_df = scrap_paragraph(paragraph, date, pattern, outside)
+    new_df = scrap_paragraph(paragraph, date, pattern)
     
     return (
         pd
