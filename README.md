@@ -18,7 +18,7 @@ Assim, a ideia deste repositório é manter um *dataset* atualizado de casos, es
 
 * [Tutorial de uso e análise temporal simples](https://github.com/zelacerda/covid-19-sc-data/blob/master/corona_sc.ipynb)
 
-## Dataset (atualizado com dados de 7/4)
+## Dataset (atualizado com dados de 8/4)
 
 * [Dataset](https://github.com/zelacerda/covid-19-sc-data/blob/master/dataset.csv)
 
