@@ -29,6 +29,10 @@ regex_pattern = {
 }
 
 
+def today():
+    return datetime.today().strftime('%Y-%m-%d')
+
+
 def update_data():
     """
     Updates dataset from manual input data
@@ -43,7 +47,7 @@ def update_data():
         .fillna(value=0)
         .to_csv('dataset.csv')
     )
-    
+
 
 def load_dataset(cities=None):
     """
@@ -93,7 +97,7 @@ def update_tabular(text, date=None, pattern=None):
     scrapped from SC government bulletin.
     """
     if date is None:
-        date = datetime.today().strftime('%Y-%m-%d')
+        date = today()
         
     old_df = pd.read_csv('tabular.csv')
     data = scrap_text(text, pattern)
