@@ -40,6 +40,8 @@ date,city,total_cases
 2020-04-19,Florianópolis,232.0
 2020-04-20,Florianópolis,238.0
 2020-04-21,Florianópolis,240.0
+2020-04-22,Florianópolis,244.0
+2020-04-23,Florianópolis,249.0
 12/03/2020,Itajaí,0.0
 13/03/2020,Itajaí,0.0
 14/03/2020,Itajaí,0.0
@@ -81,6 +83,8 @@ date,city,total_cases
 2020-04-19,Itajaí,41.0
 2020-04-20,Itajaí,45.0
 2020-04-21,Itajaí,45.0
+2020-04-22,Itajaí,45.0
+2020-04-23,Itajaí,45.0
 12/03/2020,Criciúma,0.0
 13/03/2020,Criciúma,0.0
 14/03/2020,Criciúma,0.0
@@ -122,6 +126,8 @@ date,city,total_cases
 2020-04-19,Criciúma,46.0
 2020-04-20,Criciúma,46.0
 2020-04-21,Criciúma,46.0
+2020-04-22,Criciúma,46.0
+2020-04-23,Criciúma,47.0
 12/03/2020,Blumenau,0.0
 13/03/2020,Blumenau,0.0
 14/03/2020,Blumenau,0.0
@@ -163,6 +169,8 @@ date,city,total_cases
 2020-04-19,Blumenau,75.0
 2020-04-20,Blumenau,79.0
 2020-04-21,Blumenau,81.0
+2020-04-22,Blumenau,81.0
+2020-04-23,Blumenau,86.0
 12/03/2020,Braço do Norte,0.0
 13/03/2020,Braço do Norte,0.0
 14/03/2020,Braço do Norte,0.0
@@ -204,6 +212,8 @@ date,city,total_cases
 2020-04-19,Braço do Norte,27.0
 2020-04-20,Braço do Norte,27.0
 2020-04-21,Braço do Norte,27.0
+2020-04-22,Braço do Norte,27.0
+2020-04-23,Braço do Norte,28.0
 12/03/2020,Balneário Camboriú,0.0
 13/03/2020,Balneário Camboriú,0.0
 14/03/2020,Balneário Camboriú,0.0
@@ -245,6 +255,8 @@ date,city,total_cases
 2020-04-19,Balneário Camboriú,60.0
 2020-04-20,Balneário Camboriú,59.0
 2020-04-21,Balneário Camboriú,59.0
+2020-04-22,Balneário Camboriú,59.0
+2020-04-23,Balneário Camboriú,63.0
 12/03/2020,Tubarão,0.0
 13/03/2020,Tubarão,0.0
 14/03/2020,Tubarão,0.0
@@ -286,6 +298,8 @@ date,city,total_cases
 2020-04-19,Tubarão,33.0
 2020-04-20,Tubarão,33.0
 2020-04-21,Tubarão,33.0
+2020-04-22,Tubarão,33.0
+2020-04-23,Tubarão,34.0
 12/03/2020,São José,0.0
 13/03/2020,São José,0.0
 14/03/2020,São José,0.0
@@ -327,6 +341,8 @@ date,city,total_cases
 2020-04-19,São José,42.0
 2020-04-20,São José,43.0
 2020-04-21,São José,44.0
+2020-04-22,São José,46.0
+2020-04-23,São José,48.0
 12/03/2020,Joinville,0.0
 13/03/2020,Joinville,1.0
 14/03/2020,Joinville,1.0
@@ -368,6 +384,8 @@ date,city,total_cases
 2020-04-19,Joinville,92.0
 2020-04-20,Joinville,94.0
 2020-04-21,Joinville,100.0
+2020-04-22,Joinville,100.0
+2020-04-23,Joinville,114.0
 12/03/2020,Imbituba,0.0
 13/03/2020,Imbituba,0.0
 14/03/2020,Imbituba,0.0
@@ -409,6 +427,8 @@ date,city,total_cases
 2020-04-19,Imbituba,13.0
 2020-04-20,Imbituba,13.0
 2020-04-21,Imbituba,14.0
+2020-04-22,Imbituba,15.0
+2020-04-23,Imbituba,16.0
 12/03/2020,Chapecó,0.0
 13/03/2020,Chapecó,0.0
 14/03/2020,Chapecó,0.0
@@ -450,6 +470,8 @@ date,city,total_cases
 2020-04-19,Chapecó,6.0
 2020-04-20,Chapecó,6.0
 2020-04-21,Chapecó,6.0
+2020-04-22,Chapecó,6.0
+2020-04-23,Chapecó,6.0
 12/03/2020,Camboriú,0.0
 13/03/2020,Camboriú,0.0
 14/03/2020,Camboriú,0.0
@@ -491,6 +513,8 @@ date,city,total_cases
 2020-04-19,Camboriú,56.0
 2020-04-20,Camboriú,58.0
 2020-04-21,Camboriú,60.0
+2020-04-22,Camboriú,61.0
+2020-04-23,Camboriú,62.0
 12/03/2020,Porto Belo,0.0
 13/03/2020,Porto Belo,0.0
 14/03/2020,Porto Belo,0.0
@@ -532,6 +556,8 @@ date,city,total_cases
 2020-04-19,Porto Belo,5.0
 2020-04-20,Porto Belo,5.0
 2020-04-21,Porto Belo,5.0
+2020-04-22,Porto Belo,5.0
+2020-04-23,Porto Belo,5.0
 12/03/2020,Navegantes,0.0
 13/03/2020,Navegantes,0.0
 14/03/2020,Navegantes,0.0
@@ -573,6 +599,8 @@ date,city,total_cases
 2020-04-19,Navegantes,14.0
 2020-04-20,Navegantes,17.0
 2020-04-21,Navegantes,18.0
+2020-04-22,Navegantes,19.0
+2020-04-23,Navegantes,19.0
 12/03/2020,Gravatal,0.0
 13/03/2020,Gravatal,0.0
 14/03/2020,Gravatal,0.0
@@ -614,6 +642,8 @@ date,city,total_cases
 2020-04-19,Gravatal,11.0
 2020-04-20,Gravatal,11.0
 2020-04-21,Gravatal,11.0
+2020-04-22,Gravatal,11.0
+2020-04-23,Gravatal,11.0
 12/03/2020,Siderópolis,0.0
 13/03/2020,Siderópolis,0.0
 14/03/2020,Siderópolis,0.0
@@ -655,6 +685,8 @@ date,city,total_cases
 2020-04-19,Siderópolis,7.0
 2020-04-20,Siderópolis,7.0
 2020-04-21,Siderópolis,7.0
+2020-04-22,Siderópolis,7.0
+2020-04-23,Siderópolis,7.0
 12/03/2020,Rancho Queimado,0.0
 13/03/2020,Rancho Queimado,0.0
 14/03/2020,Rancho Queimado,2.0
@@ -696,6 +728,8 @@ date,city,total_cases
 2020-04-19,Rancho Queimado,2.0
 2020-04-20,Rancho Queimado,2.0
 2020-04-21,Rancho Queimado,2.0
+2020-04-22,Rancho Queimado,2.0
+2020-04-23,Rancho Queimado,2.0
 12/03/2020,Jaraguá do Sul,0.0
 13/03/2020,Jaraguá do Sul,0.0
 14/03/2020,Jaraguá do Sul,0.0
@@ -737,6 +771,8 @@ date,city,total_cases
 2020-04-19,Jaraguá do Sul,12.0
 2020-04-20,Jaraguá do Sul,12.0
 2020-04-21,Jaraguá do Sul,12.0
+2020-04-22,Jaraguá do Sul,12.0
+2020-04-23,Jaraguá do Sul,12.0
 12/03/2020,Jaguaruna,0.0
 13/03/2020,Jaguaruna,0.0
 14/03/2020,Jaguaruna,0.0
@@ -778,6 +814,8 @@ date,city,total_cases
 2020-04-19,Jaguaruna,3.0
 2020-04-20,Jaguaruna,3.0
 2020-04-21,Jaguaruna,3.0
+2020-04-22,Jaguaruna,4.0
+2020-04-23,Jaguaruna,4.0
 12/03/2020,Timbé do Sul,0.0
 13/03/2020,Timbé do Sul,0.0
 14/03/2020,Timbé do Sul,0.0
@@ -819,6 +857,8 @@ date,city,total_cases
 2020-04-19,Timbé do Sul,1.0
 2020-04-20,Timbé do Sul,1.0
 2020-04-21,Timbé do Sul,1.0
+2020-04-22,Timbé do Sul,1.0
+2020-04-23,Timbé do Sul,1.0
 12/03/2020,Tijucas,0.0
 13/03/2020,Tijucas,0.0
 14/03/2020,Tijucas,0.0
@@ -860,6 +900,8 @@ date,city,total_cases
 2020-04-19,Tijucas,4.0
 2020-04-20,Tijucas,4.0
 2020-04-21,Tijucas,4.0
+2020-04-22,Tijucas,4.0
+2020-04-23,Tijucas,4.0
 12/03/2020,São Pedro de Alcântara,0.0
 13/03/2020,São Pedro de Alcântara,0.0
 14/03/2020,São Pedro de Alcântara,0.0
@@ -901,6 +943,8 @@ date,city,total_cases
 2020-04-19,São Pedro de Alcântara,1.0
 2020-04-20,São Pedro de Alcântara,1.0
 2020-04-21,São Pedro de Alcântara,1.0
+2020-04-22,São Pedro de Alcântara,1.0
+2020-04-23,São Pedro de Alcântara,1.0
 12/03/2020,São Ludgero,0.0
 13/03/2020,São Ludgero,0.0
 14/03/2020,São Ludgero,0.0
@@ -942,6 +986,8 @@ date,city,total_cases
 2020-04-19,São Ludgero,6.0
 2020-04-20,São Ludgero,6.0
 2020-04-21,São Ludgero,6.0
+2020-04-22,São Ludgero,6.0
+2020-04-23,São Ludgero,6.0
 12/03/2020,São Lourenço do Oeste,0.0
 13/03/2020,São Lourenço do Oeste,0.0
 14/03/2020,São Lourenço do Oeste,0.0
@@ -983,6 +1029,8 @@ date,city,total_cases
 2020-04-19,São Lourenço do Oeste,2.0
 2020-04-20,São Lourenço do Oeste,2.0
 2020-04-21,São Lourenço do Oeste,2.0
+2020-04-22,São Lourenço do Oeste,2.0
+2020-04-23,São Lourenço do Oeste,2.0
 12/03/2020,Pomerode,0.0
 13/03/2020,Pomerode,0.0
 14/03/2020,Pomerode,0.0
@@ -1024,6 +1072,8 @@ date,city,total_cases
 2020-04-19,Pomerode,1.0
 2020-04-20,Pomerode,1.0
 2020-04-21,Pomerode,1.0
+2020-04-22,Pomerode,1.0
+2020-04-23,Pomerode,2.0
 12/03/2020,Laguna,0.0
 13/03/2020,Laguna,0.0
 14/03/2020,Laguna,0.0
@@ -1065,6 +1115,8 @@ date,city,total_cases
 2020-04-19,Laguna,5.0
 2020-04-20,Laguna,5.0
 2020-04-21,Laguna,5.0
+2020-04-22,Laguna,5.0
+2020-04-23,Laguna,5.0
 12/03/2020,Lages,0.0
 13/03/2020,Lages,0.0
 14/03/2020,Lages,0.0
@@ -1106,6 +1158,8 @@ date,city,total_cases
 2020-04-19,Lages,13.0
 2020-04-20,Lages,13.0
 2020-04-21,Lages,13.0
+2020-04-22,Lages,13.0
+2020-04-23,Lages,13.0
 12/03/2020,Itapema,0.0
 13/03/2020,Itapema,0.0
 14/03/2020,Itapema,0.0
@@ -1147,6 +1201,8 @@ date,city,total_cases
 2020-04-19,Itapema,8.0
 2020-04-20,Itapema,8.0
 2020-04-21,Itapema,9.0
+2020-04-22,Itapema,10.0
+2020-04-23,Itapema,10.0
 12/03/2020,Içara,0.0
 13/03/2020,Içara,0.0
 14/03/2020,Içara,0.0
@@ -1188,6 +1244,8 @@ date,city,total_cases
 2020-04-19,Içara,7.0
 2020-04-20,Içara,7.0
 2020-04-21,Içara,7.0
+2020-04-22,Içara,7.0
+2020-04-23,Içara,7.0
 12/03/2020,Gaspar,0.0
 13/03/2020,Gaspar,0.0
 14/03/2020,Gaspar,0.0
@@ -1229,6 +1287,8 @@ date,city,total_cases
 2020-04-19,Gaspar,7.0
 2020-04-20,Gaspar,7.0
 2020-04-21,Gaspar,7.0
+2020-04-22,Gaspar,7.0
+2020-04-23,Gaspar,7.0
 12/03/2020,Canelinha,0.0
 13/03/2020,Canelinha,0.0
 14/03/2020,Canelinha,0.0
@@ -1270,6 +1330,8 @@ date,city,total_cases
 2020-04-19,Canelinha,1.0
 2020-04-20,Canelinha,1.0
 2020-04-21,Canelinha,1.0
+2020-04-22,Canelinha,1.0
+2020-04-23,Canelinha,1.0
 12/03/2020,Antônio Carlos,0.0
 13/03/2020,Antônio Carlos,0.0
 14/03/2020,Antônio Carlos,0.0
@@ -1311,6 +1373,8 @@ date,city,total_cases
 2020-04-19,Antônio Carlos,11.0
 2020-04-20,Antônio Carlos,11.0
 2020-04-21,Antônio Carlos,11.0
+2020-04-22,Antônio Carlos,11.0
+2020-04-23,Antônio Carlos,11.0
 12/03/2020,Balneário Arroio do Silva,0.0
 13/03/2020,Balneário Arroio do Silva,0.0
 14/03/2020,Balneário Arroio do Silva,0.0
@@ -1352,6 +1416,8 @@ date,city,total_cases
 2020-04-19,Balneário Arroio do Silva,2.0
 2020-04-20,Balneário Arroio do Silva,2.0
 2020-04-21,Balneário Arroio do Silva,2.0
+2020-04-22,Balneário Arroio do Silva,3.0
+2020-04-23,Balneário Arroio do Silva,4.0
 12/03/2020,Brusque,0.0
 13/03/2020,Brusque,0.0
 14/03/2020,Brusque,0.0
@@ -1393,6 +1459,8 @@ date,city,total_cases
 2020-04-19,Brusque,25.0
 2020-04-20,Brusque,29.0
 2020-04-21,Brusque,36.0
+2020-04-22,Brusque,36.0
+2020-04-23,Brusque,37.0
 12/03/2020,Papanduva,0.0
 13/03/2020,Papanduva,0.0
 14/03/2020,Papanduva,0.0
@@ -1434,6 +1502,8 @@ date,city,total_cases
 2020-04-19,Papanduva,2.0
 2020-04-20,Papanduva,2.0
 2020-04-21,Papanduva,2.0
+2020-04-22,Papanduva,2.0
+2020-04-23,Papanduva,2.0
 12/03/2020,São Francisco do Sul,0.0
 13/03/2020,São Francisco do Sul,0.0
 14/03/2020,São Francisco do Sul,0.0
@@ -1475,6 +1545,8 @@ date,city,total_cases
 2020-04-19,São Francisco do Sul,2.0
 2020-04-20,São Francisco do Sul,2.0
 2020-04-21,São Francisco do Sul,2.0
+2020-04-22,São Francisco do Sul,2.0
+2020-04-23,São Francisco do Sul,2.0
 12/03/2020,Urussanga,0.0
 13/03/2020,Urussanga,0.0
 14/03/2020,Urussanga,0.0
@@ -1516,6 +1588,8 @@ date,city,total_cases
 2020-04-19,Urussanga,3.0
 2020-04-20,Urussanga,3.0
 2020-04-21,Urussanga,3.0
+2020-04-22,Urussanga,3.0
+2020-04-23,Urussanga,3.0
 12/03/2020,Indaial,0.0
 13/03/2020,Indaial,0.0
 14/03/2020,Indaial,0.0
@@ -1557,6 +1631,8 @@ date,city,total_cases
 2020-04-19,Indaial,3.0
 2020-04-20,Indaial,4.0
 2020-04-21,Indaial,4.0
+2020-04-22,Indaial,4.0
+2020-04-23,Indaial,5.0
 12/03/2020,Pescaria Brava,0.0
 13/03/2020,Pescaria Brava,0.0
 14/03/2020,Pescaria Brava,0.0
@@ -1598,6 +1674,8 @@ date,city,total_cases
 2020-04-19,Pescaria Brava,1.0
 2020-04-20,Pescaria Brava,1.0
 2020-04-21,Pescaria Brava,1.0
+2020-04-22,Pescaria Brava,1.0
+2020-04-23,Pescaria Brava,1.0
 12/03/2020,Biguaçu,0.0
 13/03/2020,Biguaçu,0.0
 14/03/2020,Biguaçu,0.0
@@ -1639,6 +1717,8 @@ date,city,total_cases
 2020-04-19,Biguaçu,2.0
 2020-04-20,Biguaçu,2.0
 2020-04-21,Biguaçu,2.0
+2020-04-22,Biguaçu,2.0
+2020-04-23,Biguaçu,2.0
 12/03/2020,Joaçaba,0.0
 13/03/2020,Joaçaba,0.0
 14/03/2020,Joaçaba,0.0
@@ -1680,6 +1760,8 @@ date,city,total_cases
 2020-04-19,Joaçaba,4.0
 2020-04-20,Joaçaba,5.0
 2020-04-21,Joaçaba,5.0
+2020-04-22,Joaçaba,5.0
+2020-04-23,Joaçaba,6.0
 12/03/2020,Paulo Lopes,0.0
 13/03/2020,Paulo Lopes,0.0
 14/03/2020,Paulo Lopes,0.0
@@ -1721,6 +1803,8 @@ date,city,total_cases
 2020-04-19,Paulo Lopes,2.0
 2020-04-20,Paulo Lopes,2.0
 2020-04-21,Paulo Lopes,2.0
+2020-04-22,Paulo Lopes,2.0
+2020-04-23,Paulo Lopes,2.0
 12/03/2020,Araranguá,0.0
 13/03/2020,Araranguá,0.0
 14/03/2020,Araranguá,0.0
@@ -1762,6 +1846,8 @@ date,city,total_cases
 2020-04-19,Araranguá,4.0
 2020-04-20,Araranguá,4.0
 2020-04-21,Araranguá,4.0
+2020-04-22,Araranguá,4.0
+2020-04-23,Araranguá,4.0
 12/03/2020,Governador Celso Ramos,0.0
 13/03/2020,Governador Celso Ramos,0.0
 14/03/2020,Governador Celso Ramos,0.0
@@ -1803,6 +1889,8 @@ date,city,total_cases
 2020-04-19,Governador Celso Ramos,3.0
 2020-04-20,Governador Celso Ramos,3.0
 2020-04-21,Governador Celso Ramos,3.0
+2020-04-22,Governador Celso Ramos,3.0
+2020-04-23,Governador Celso Ramos,3.0
 12/03/2020,Irati,0.0
 13/03/2020,Irati,0.0
 14/03/2020,Irati,0.0
@@ -1844,6 +1932,8 @@ date,city,total_cases
 2020-04-19,Irati,1.0
 2020-04-20,Irati,1.0
 2020-04-21,Irati,1.0
+2020-04-22,Irati,1.0
+2020-04-23,Irati,1.0
 12/03/2020,Mafra,0.0
 13/03/2020,Mafra,0.0
 14/03/2020,Mafra,0.0
@@ -1885,6 +1975,8 @@ date,city,total_cases
 2020-04-19,Mafra,2.0
 2020-04-20,Mafra,2.0
 2020-04-21,Mafra,2.0
+2020-04-22,Mafra,2.0
+2020-04-23,Mafra,2.0
 12/03/2020,Morro da Fumaça,0.0
 13/03/2020,Morro da Fumaça,0.0
 14/03/2020,Morro da Fumaça,0.0
@@ -1926,6 +2018,8 @@ date,city,total_cases
 2020-04-19,Morro da Fumaça,2.0
 2020-04-20,Morro da Fumaça,2.0
 2020-04-21,Morro da Fumaça,2.0
+2020-04-22,Morro da Fumaça,2.0
+2020-04-23,Morro da Fumaça,2.0
 12/03/2020,Palhoça,0.0
 13/03/2020,Palhoça,0.0
 14/03/2020,Palhoça,0.0
@@ -1967,6 +2061,8 @@ date,city,total_cases
 2020-04-19,Palhoça,17.0
 2020-04-20,Palhoça,17.0
 2020-04-21,Palhoça,17.0
+2020-04-22,Palhoça,19.0
+2020-04-23,Palhoça,20.0
 12/03/2020,Sombrio,0.0
 13/03/2020,Sombrio,0.0
 14/03/2020,Sombrio,0.0
@@ -2008,6 +2104,8 @@ date,city,total_cases
 2020-04-19,Sombrio,10.0
 2020-04-20,Sombrio,10.0
 2020-04-21,Sombrio,10.0
+2020-04-22,Sombrio,10.0
+2020-04-23,Sombrio,11.0
 12/03/2020,Outros estados,0.0
 13/03/2020,Outros estados,0.0
 14/03/2020,Outros estados,0.0
@@ -2049,6 +2147,8 @@ date,city,total_cases
 2020-04-19,Outros estados,11.0
 2020-04-20,Outros estados,11.0
 2020-04-21,Outros estados,11.0
+2020-04-22,Outros estados,11.0
+2020-04-23,Outros estados,12.0
 12/03/2020,Outros países,0.0
 13/03/2020,Outros países,0.0
 14/03/2020,Outros países,0.0
@@ -2090,6 +2190,8 @@ date,city,total_cases
 2020-04-19,Outros países,3.0
 2020-04-20,Outros países,3.0
 2020-04-21,Outros países,3.0
+2020-04-22,Outros países,3.0
+2020-04-23,Outros países,3.0
 12/03/2020,Abelardo Luz,0.0
 13/03/2020,Abelardo Luz,0.0
 14/03/2020,Abelardo Luz,0.0
@@ -2131,6 +2233,8 @@ date,city,total_cases
 2020-04-19,Abelardo Luz,0.0
 2020-04-20,Abelardo Luz,0.0
 2020-04-21,Abelardo Luz,0.0
+2020-04-22,Abelardo Luz,0.0
+2020-04-23,Abelardo Luz,0.0
 12/03/2020,Balneário Gaivota,0.0
 13/03/2020,Balneário Gaivota,0.0
 14/03/2020,Balneário Gaivota,0.0
@@ -2172,6 +2276,8 @@ date,city,total_cases
 2020-04-19,Balneário Gaivota,2.0
 2020-04-20,Balneário Gaivota,2.0
 2020-04-21,Balneário Gaivota,2.0
+2020-04-22,Balneário Gaivota,2.0
+2020-04-23,Balneário Gaivota,2.0
 12/03/2020,Itapiranga,0.0
 13/03/2020,Itapiranga,0.0
 14/03/2020,Itapiranga,0.0
@@ -2213,6 +2319,8 @@ date,city,total_cases
 2020-04-19,Itapiranga,1.0
 2020-04-20,Itapiranga,1.0
 2020-04-21,Itapiranga,1.0
+2020-04-22,Itapiranga,1.0
+2020-04-23,Itapiranga,1.0
 12/03/2020,Pedras Grandes,0.0
 13/03/2020,Pedras Grandes,0.0
 14/03/2020,Pedras Grandes,0.0
@@ -2254,6 +2362,8 @@ date,city,total_cases
 2020-04-19,Pedras Grandes,2.0
 2020-04-20,Pedras Grandes,2.0
 2020-04-21,Pedras Grandes,2.0
+2020-04-22,Pedras Grandes,2.0
+2020-04-23,Pedras Grandes,2.0
 12/03/2020,São Domingos,0.0
 13/03/2020,São Domingos,0.0
 14/03/2020,São Domingos,0.0
@@ -2295,6 +2405,8 @@ date,city,total_cases
 2020-04-19,São Domingos,5.0
 2020-04-20,São Domingos,5.0
 2020-04-21,São Domingos,5.0
+2020-04-22,São Domingos,5.0
+2020-04-23,São Domingos,5.0
 12/03/2020,Águas Mornas,0.0
 13/03/2020,Águas Mornas,0.0
 14/03/2020,Águas Mornas,0.0
@@ -2336,6 +2448,8 @@ date,city,total_cases
 2020-04-19,Águas Mornas,1.0
 2020-04-20,Águas Mornas,1.0
 2020-04-21,Águas Mornas,1.0
+2020-04-22,Águas Mornas,1.0
+2020-04-23,Águas Mornas,1.0
 12/03/2020,Botuvera,0.0
 13/03/2020,Botuvera,0.0
 14/03/2020,Botuvera,0.0
@@ -2377,6 +2491,8 @@ date,city,total_cases
 2020-04-19,Botuvera,0.0
 2020-04-20,Botuvera,0.0
 2020-04-21,Botuvera,0.0
+2020-04-22,Botuvera,0.0
+2020-04-23,Botuvera,0.0
 12/03/2020,Santo Amaro da Imperatriz,0.0
 13/03/2020,Santo Amaro da Imperatriz,0.0
 14/03/2020,Santo Amaro da Imperatriz,0.0
@@ -2418,6 +2534,8 @@ date,city,total_cases
 2020-04-19,Santo Amaro da Imperatriz,1.0
 2020-04-20,Santo Amaro da Imperatriz,2.0
 2020-04-21,Santo Amaro da Imperatriz,2.0
+2020-04-22,Santo Amaro da Imperatriz,3.0
+2020-04-23,Santo Amaro da Imperatriz,3.0
 12/03/2020,Timbó,0.0
 13/03/2020,Timbó,0.0
 14/03/2020,Timbó,0.0
@@ -2459,6 +2577,8 @@ date,city,total_cases
 2020-04-19,Timbó,2.0
 2020-04-20,Timbó,4.0
 2020-04-21,Timbó,4.0
+2020-04-22,Timbó,4.0
+2020-04-23,Timbó,4.0
 12/03/2020,Videira,0.0
 13/03/2020,Videira,0.0
 14/03/2020,Videira,0.0
@@ -2500,6 +2620,8 @@ date,city,total_cases
 2020-04-19,Videira,1.0
 2020-04-20,Videira,1.0
 2020-04-21,Videira,1.0
+2020-04-22,Videira,1.0
+2020-04-23,Videira,2.0
 12/03/2020,Anita Garibaldi,0.0
 13/03/2020,Anita Garibaldi,0.0
 14/03/2020,Anita Garibaldi,0.0
@@ -2541,6 +2663,8 @@ date,city,total_cases
 2020-04-19,Anita Garibaldi,1.0
 2020-04-20,Anita Garibaldi,1.0
 2020-04-21,Anita Garibaldi,1.0
+2020-04-22,Anita Garibaldi,1.0
+2020-04-23,Anita Garibaldi,1.0
 12/03/2020,Sangão,0.0
 13/03/2020,Sangão,0.0
 14/03/2020,Sangão,0.0
@@ -2582,6 +2706,8 @@ date,city,total_cases
 2020-04-19,Sangão,2.0
 2020-04-20,Sangão,2.0
 2020-04-21,Sangão,2.0
+2020-04-22,Sangão,2.0
+2020-04-23,Sangão,2.0
 12/03/2020,Santa Rosa de Lima,0.0
 13/03/2020,Santa Rosa de Lima,0.0
 14/03/2020,Santa Rosa de Lima,0.0
@@ -2623,6 +2749,8 @@ date,city,total_cases
 2020-04-19,Santa Rosa de Lima,0.0
 2020-04-20,Santa Rosa de Lima,0.0
 2020-04-21,Santa Rosa de Lima,0.0
+2020-04-22,Santa Rosa de Lima,0.0
+2020-04-23,Santa Rosa de Lima,0.0
 12/03/2020,Botuverá,0.0
 13/03/2020,Botuverá,0.0
 14/03/2020,Botuverá,0.0
@@ -2664,6 +2792,8 @@ date,city,total_cases
 2020-04-19,Botuverá,2.0
 2020-04-20,Botuverá,3.0
 2020-04-21,Botuverá,3.0
+2020-04-22,Botuverá,3.0
+2020-04-23,Botuverá,3.0
 12/03/2020,Forquilhinha,0.0
 13/03/2020,Forquilhinha,0.0
 14/03/2020,Forquilhinha,0.0
@@ -2705,6 +2835,8 @@ date,city,total_cases
 2020-04-19,Forquilhinha,1.0
 2020-04-20,Forquilhinha,1.0
 2020-04-21,Forquilhinha,1.0
+2020-04-22,Forquilhinha,1.0
+2020-04-23,Forquilhinha,1.0
 12/03/2020,Guabiruba,0.0
 13/03/2020,Guabiruba,0.0
 14/03/2020,Guabiruba,0.0
@@ -2746,6 +2878,8 @@ date,city,total_cases
 2020-04-19,Guabiruba,2.0
 2020-04-20,Guabiruba,2.0
 2020-04-21,Guabiruba,2.0
+2020-04-22,Guabiruba,2.0
+2020-04-23,Guabiruba,2.0
 12/03/2020,São Bento do Sul,0.0
 13/03/2020,São Bento do Sul,0.0
 14/03/2020,São Bento do Sul,0.0
@@ -2787,6 +2921,8 @@ date,city,total_cases
 2020-04-19,São Bento do Sul,1.0
 2020-04-20,São Bento do Sul,1.0
 2020-04-21,São Bento do Sul,1.0
+2020-04-22,São Bento do Sul,1.0
+2020-04-23,São Bento do Sul,1.0
 12/03/2020,Tangará,0.0
 13/03/2020,Tangará,0.0
 14/03/2020,Tangará,0.0
@@ -2828,6 +2964,8 @@ date,city,total_cases
 2020-04-19,Tangará,2.0
 2020-04-20,Tangará,2.0
 2020-04-21,Tangará,2.0
+2020-04-22,Tangará,2.0
+2020-04-23,Tangará,2.0
 12/03/2020,Aurora,0.0
 13/03/2020,Aurora,0.0
 14/03/2020,Aurora,0.0
@@ -2869,6 +3007,8 @@ date,city,total_cases
 2020-04-19,Aurora,1.0
 2020-04-20,Aurora,1.0
 2020-04-21,Aurora,1.0
+2020-04-22,Aurora,1.0
+2020-04-23,Aurora,1.0
 12/03/2020,Balneário Piçarras,0.0
 13/03/2020,Balneário Piçarras,0.0
 14/03/2020,Balneário Piçarras,0.0
@@ -2910,6 +3050,8 @@ date,city,total_cases
 2020-04-19,Balneário Piçarras,2.0
 2020-04-20,Balneário Piçarras,2.0
 2020-04-21,Balneário Piçarras,2.0
+2020-04-22,Balneário Piçarras,2.0
+2020-04-23,Balneário Piçarras,3.0
 12/03/2020,Barra Velha,0.0
 13/03/2020,Barra Velha,0.0
 14/03/2020,Barra Velha,0.0
@@ -2951,6 +3093,8 @@ date,city,total_cases
 2020-04-19,Barra Velha,1.0
 2020-04-20,Barra Velha,1.0
 2020-04-21,Barra Velha,1.0
+2020-04-22,Barra Velha,1.0
+2020-04-23,Barra Velha,1.0
 12/03/2020,Caçador,0.0
 13/03/2020,Caçador,0.0
 14/03/2020,Caçador,0.0
@@ -2992,6 +3136,8 @@ date,city,total_cases
 2020-04-19,Caçador,5.0
 2020-04-20,Caçador,5.0
 2020-04-21,Caçador,5.0
+2020-04-22,Caçador,5.0
+2020-04-23,Caçador,5.0
 12/03/2020,Cocal do Sul,0.0
 13/03/2020,Cocal do Sul,0.0
 14/03/2020,Cocal do Sul,0.0
@@ -3033,6 +3179,8 @@ date,city,total_cases
 2020-04-19,Cocal do Sul,1.0
 2020-04-20,Cocal do Sul,1.0
 2020-04-21,Cocal do Sul,1.0
+2020-04-22,Cocal do Sul,1.0
+2020-04-23,Cocal do Sul,1.0
 12/03/2020,Garopaba,0.0
 13/03/2020,Garopaba,0.0
 14/03/2020,Garopaba,0.0
@@ -3074,6 +3222,8 @@ date,city,total_cases
 2020-04-19,Garopaba,2.0
 2020-04-20,Garopaba,2.0
 2020-04-21,Garopaba,2.0
+2020-04-22,Garopaba,2.0
+2020-04-23,Garopaba,2.0
 12/03/2020,Guaramirim,0.0
 13/03/2020,Guaramirim,0.0
 14/03/2020,Guaramirim,0.0
@@ -3115,6 +3265,8 @@ date,city,total_cases
 2020-04-19,Guaramirim,1.0
 2020-04-20,Guaramirim,1.0
 2020-04-21,Guaramirim,1.0
+2020-04-22,Guaramirim,1.0
+2020-04-23,Guaramirim,1.0
 12/03/2020,Massaranduba,0.0
 13/03/2020,Massaranduba,0.0
 14/03/2020,Massaranduba,0.0
@@ -3156,6 +3308,8 @@ date,city,total_cases
 2020-04-19,Massaranduba,1.0
 2020-04-20,Massaranduba,1.0
 2020-04-21,Massaranduba,1.0
+2020-04-22,Massaranduba,1.0
+2020-04-23,Massaranduba,1.0
 12/03/2020,Orleans,0.0
 13/03/2020,Orleans,0.0
 14/03/2020,Orleans,0.0
@@ -3197,6 +3351,8 @@ date,city,total_cases
 2020-04-19,Orleans,3.0
 2020-04-20,Orleans,3.0
 2020-04-21,Orleans,3.0
+2020-04-22,Orleans,3.0
+2020-04-23,Orleans,4.0
 12/03/2020,Rio Negrinho,0.0
 13/03/2020,Rio Negrinho,0.0
 14/03/2020,Rio Negrinho,0.0
@@ -3238,6 +3394,8 @@ date,city,total_cases
 2020-04-19,Rio Negrinho,1.0
 2020-04-20,Rio Negrinho,1.0
 2020-04-21,Rio Negrinho,1.0
+2020-04-22,Rio Negrinho,1.0
+2020-04-23,Rio Negrinho,1.0
 12/03/2020,Rio Rufino,0.0
 13/03/2020,Rio Rufino,0.0
 14/03/2020,Rio Rufino,0.0
@@ -3279,6 +3437,8 @@ date,city,total_cases
 2020-04-19,Rio Rufino,1.0
 2020-04-20,Rio Rufino,1.0
 2020-04-21,Rio Rufino,1.0
+2020-04-22,Rio Rufino,1.0
+2020-04-23,Rio Rufino,1.0
 12/03/2020,Schroeder,0.0
 13/03/2020,Schroeder,0.0
 14/03/2020,Schroeder,0.0
@@ -3320,6 +3480,8 @@ date,city,total_cases
 2020-04-19,Schroeder,1.0
 2020-04-20,Schroeder,1.0
 2020-04-21,Schroeder,1.0
+2020-04-22,Schroeder,1.0
+2020-04-23,Schroeder,1.0
 12/03/2020,Vidal Ramos,0.0
 13/03/2020,Vidal Ramos,0.0
 14/03/2020,Vidal Ramos,0.0
@@ -3361,6 +3523,8 @@ date,city,total_cases
 2020-04-19,Vidal Ramos,1.0
 2020-04-20,Vidal Ramos,1.0
 2020-04-21,Vidal Ramos,1.0
+2020-04-22,Vidal Ramos,1.0
+2020-04-23,Vidal Ramos,1.0
 12/03/2020,Nova Trento,0.0
 13/03/2020,Nova Trento,0.0
 14/03/2020,Nova Trento,0.0
@@ -3402,6 +3566,8 @@ date,city,total_cases
 2020-04-19,Nova Trento,1.0
 2020-04-20,Nova Trento,1.0
 2020-04-21,Nova Trento,1.0
+2020-04-22,Nova Trento,1.0
+2020-04-23,Nova Trento,1.0
 12/03/2020,Santa Cecília,0.0
 13/03/2020,Santa Cecília,0.0
 14/03/2020,Santa Cecília,0.0
@@ -3443,6 +3609,8 @@ date,city,total_cases
 2020-04-19,Santa Cecília,1.0
 2020-04-20,Santa Cecília,1.0
 2020-04-21,Santa Cecília,1.0
+2020-04-22,Santa Cecília,1.0
+2020-04-23,Santa Cecília,1.0
 12/03/2020,Ituporanga,0.0
 13/03/2020,Ituporanga,0.0
 14/03/2020,Ituporanga,0.0
@@ -3484,6 +3652,8 @@ date,city,total_cases
 2020-04-19,Ituporanga,1.0
 2020-04-20,Ituporanga,1.0
 2020-04-21,Ituporanga,1.0
+2020-04-22,Ituporanga,1.0
+2020-04-23,Ituporanga,2.0
 12/03/2020,Capivari de Baixo,0.0
 13/03/2020,Capivari de Baixo,0.0
 14/03/2020,Capivari de Baixo,0.0
@@ -3525,6 +3695,8 @@ date,city,total_cases
 2020-04-19,Capivari de Baixo,2.0
 2020-04-20,Capivari de Baixo,2.0
 2020-04-21,Capivari de Baixo,2.0
+2020-04-22,Capivari de Baixo,2.0
+2020-04-23,Capivari de Baixo,2.0
 12/03/2020,Ipumirim,0.0
 13/03/2020,Ipumirim,0.0
 14/03/2020,Ipumirim,0.0
@@ -3566,6 +3738,8 @@ date,city,total_cases
 2020-04-19,Ipumirim,3.0
 2020-04-20,Ipumirim,4.0
 2020-04-21,Ipumirim,5.0
+2020-04-22,Ipumirim,6.0
+2020-04-23,Ipumirim,6.0
 12/03/2020,Rio do Sul,0.0
 13/03/2020,Rio do Sul,0.0
 14/03/2020,Rio do Sul,0.0
@@ -3607,6 +3781,8 @@ date,city,total_cases
 2020-04-19,Rio do Sul,2.0
 2020-04-20,Rio do Sul,2.0
 2020-04-21,Rio do Sul,2.0
+2020-04-22,Rio do Sul,2.0
+2020-04-23,Rio do Sul,2.0
 12/03/2020,Treze de Maio,0.0
 13/03/2020,Treze de Maio,0.0
 14/03/2020,Treze de Maio,0.0
@@ -3648,6 +3824,8 @@ date,city,total_cases
 2020-04-19,Treze de Maio,3.0
 2020-04-20,Treze de Maio,3.0
 2020-04-21,Treze de Maio,3.0
+2020-04-22,Treze de Maio,3.0
+2020-04-23,Treze de Maio,3.0
 12/03/2020,Santa Rosa do Sul,0.0
 13/03/2020,Santa Rosa do Sul,0.0
 14/03/2020,Santa Rosa do Sul,0.0
@@ -3689,6 +3867,8 @@ date,city,total_cases
 2020-04-19,Santa Rosa do Sul,1.0
 2020-04-20,Santa Rosa do Sul,1.0
 2020-04-21,Santa Rosa do Sul,1.0
+2020-04-22,Santa Rosa do Sul,1.0
+2020-04-23,Santa Rosa do Sul,1.0
 12/03/2020,Arabutã,0.0
 13/03/2020,Arabutã,0.0
 14/03/2020,Arabutã,0.0
@@ -3730,6 +3910,8 @@ date,city,total_cases
 2020-04-19,Arabutã,3.0
 2020-04-20,Arabutã,4.0
 2020-04-21,Arabutã,4.0
+2020-04-22,Arabutã,5.0
+2020-04-23,Arabutã,5.0
 12/03/2020,Armazém,0.0
 13/03/2020,Armazém,0.0
 14/03/2020,Armazém,0.0
@@ -3771,6 +3953,8 @@ date,city,total_cases
 2020-04-19,Armazém,1.0
 2020-04-20,Armazém,1.0
 2020-04-21,Armazém,1.0
+2020-04-22,Armazém,2.0
+2020-04-23,Armazém,2.0
 12/03/2020,Concórdia,0.0
 13/03/2020,Concórdia,0.0
 14/03/2020,Concórdia,0.0
@@ -3812,6 +3996,8 @@ date,city,total_cases
 2020-04-19,Concórdia,2.0
 2020-04-20,Concórdia,2.0
 2020-04-21,Concórdia,4.0
+2020-04-22,Concórdia,9.0
+2020-04-23,Concórdia,9.0
 12/03/2020,Lindóia do Sul,0.0
 13/03/2020,Lindóia do Sul,0.0
 14/03/2020,Lindóia do Sul,0.0
@@ -3853,6 +4039,8 @@ date,city,total_cases
 2020-04-19,Lindóia do Sul,2.0
 2020-04-20,Lindóia do Sul,3.0
 2020-04-21,Lindóia do Sul,4.0
+2020-04-22,Lindóia do Sul,4.0
+2020-04-23,Lindóia do Sul,4.0
 12/03/2020,Nova Veneza,0.0
 13/03/2020,Nova Veneza,0.0
 14/03/2020,Nova Veneza,0.0
@@ -3894,6 +4082,8 @@ date,city,total_cases
 2020-04-19,Nova Veneza,2.0
 2020-04-20,Nova Veneza,2.0
 2020-04-21,Nova Veneza,2.0
+2020-04-22,Nova Veneza,2.0
+2020-04-23,Nova Veneza,2.0
 12/03/2020,Pouso Redondo,0.0
 13/03/2020,Pouso Redondo,0.0
 14/03/2020,Pouso Redondo,0.0
@@ -3935,6 +4125,8 @@ date,city,total_cases
 2020-04-19,Pouso Redondo,1.0
 2020-04-20,Pouso Redondo,1.0
 2020-04-21,Pouso Redondo,1.0
+2020-04-22,Pouso Redondo,1.0
+2020-04-23,Pouso Redondo,1.0
 12/03/2020,Ilhota,0.0
 13/03/2020,Ilhota,0.0
 14/03/2020,Ilhota,0.0
@@ -3976,6 +4168,8 @@ date,city,total_cases
 2020-04-19,Ilhota,1.0
 2020-04-20,Ilhota,1.0
 2020-04-21,Ilhota,1.0
+2020-04-22,Ilhota,1.0
+2020-04-23,Ilhota,1.0
 12/03/2020,Itaiópolis,0.0
 13/03/2020,Itaiópolis,0.0
 14/03/2020,Itaiópolis,0.0
@@ -4017,6 +4211,8 @@ date,city,total_cases
 2020-04-19,Itaiópolis,1.0
 2020-04-20,Itaiópolis,1.0
 2020-04-21,Itaiópolis,1.0
+2020-04-22,Itaiópolis,1.0
+2020-04-23,Itaiópolis,1.0
 12/03/2020,Meleiro,0.0
 13/03/2020,Meleiro,0.0
 14/03/2020,Meleiro,0.0
@@ -4058,6 +4254,8 @@ date,city,total_cases
 2020-04-19,Meleiro,1.0
 2020-04-20,Meleiro,1.0
 2020-04-21,Meleiro,1.0
+2020-04-22,Meleiro,1.0
+2020-04-23,Meleiro,1.0
 12/03/2020,Penha,0.0
 13/03/2020,Penha,0.0
 14/03/2020,Penha,0.0
@@ -4099,6 +4297,8 @@ date,city,total_cases
 2020-04-19,Penha,2.0
 2020-04-20,Penha,3.0
 2020-04-21,Penha,4.0
+2020-04-22,Penha,4.0
+2020-04-23,Penha,4.0
 12/03/2020,Catanduvas,0.0
 13/03/2020,Catanduvas,0.0
 14/03/2020,Catanduvas,0.0
@@ -4140,6 +4340,8 @@ date,city,total_cases
 2020-04-19,Catanduvas,2.0
 2020-04-20,Catanduvas,2.0
 2020-04-21,Catanduvas,2.0
+2020-04-22,Catanduvas,2.0
+2020-04-23,Catanduvas,3.0
 12/03/2020,Palma Sola,0.0
 13/03/2020,Palma Sola,0.0
 14/03/2020,Palma Sola,0.0
@@ -4181,6 +4383,8 @@ date,city,total_cases
 2020-04-19,Palma Sola,1.0
 2020-04-20,Palma Sola,1.0
 2020-04-21,Palma Sola,1.0
+2020-04-22,Palma Sola,1.0
+2020-04-23,Palma Sola,1.0
 12/03/2020,Xaxim,0.0
 13/03/2020,Xaxim,0.0
 14/03/2020,Xaxim,0.0
@@ -4222,6 +4426,8 @@ date,city,total_cases
 2020-04-19,Xaxim,1.0
 2020-04-20,Xaxim,1.0
 2020-04-21,Xaxim,1.0
+2020-04-22,Xaxim,1.0
+2020-04-23,Xaxim,1.0
 12/03/2020,Irani,0.0
 13/03/2020,Irani,0.0
 14/03/2020,Irani,0.0
@@ -4263,3 +4469,134 @@ date,city,total_cases
 2020-04-19,Irani,0.0
 2020-04-20,Irani,2.0
 2020-04-21,Irani,2.0
+2020-04-22,Irani,3.0
+2020-04-23,Irani,6.0
+12/03/2020,Jaborá,0.0
+13/03/2020,Jaborá,0.0
+14/03/2020,Jaborá,0.0
+15/03/2020,Jaborá,0.0
+16/03/2020,Jaborá,0.0
+17/03/2020,Jaborá,0.0
+18/03/2020,Jaborá,0.0
+19/03/2020,Jaborá,0.0
+20/03/2020,Jaborá,0.0
+21/03/2020,Jaborá,0.0
+22/03/2020,Jaborá,0.0
+23/03/2020,Jaborá,0.0
+24/03/2020,Jaborá,0.0
+25/03/2020,Jaborá,0.0
+26/03/2020,Jaborá,0.0
+27/03/2020,Jaborá,0.0
+28/03/2020,Jaborá,0.0
+29/03/2020,Jaborá,0.0
+30/03/2020,Jaborá,0.0
+31/03/2020,Jaborá,0.0
+01/04/2020,Jaborá,0.0
+02/04/2020,Jaborá,0.0
+03/04/2020,Jaborá,0.0
+04/04/2020,Jaborá,0.0
+05/04/2020,Jaborá,0.0
+06/04/2020,Jaborá,0.0
+07/04/2020,Jaborá,0.0
+08/04/2020,Jaborá,0.0
+09/04/2020,Jaborá,0.0
+10/04/2020,Jaborá,0.0
+11/04/2020,Jaborá,0.0
+12/04/2020,Jaborá,0.0
+2020-04-13,Jaborá,0.0
+2020-04-14,Jaborá,0.0
+2020-04-15,Jaborá,0.0
+2019-04-16,Jaborá,0.0
+2020-04-17,Jaborá,0.0
+2020-04-18,Jaborá,0.0
+2020-04-19,Jaborá,0.0
+2020-04-20,Jaborá,0.0
+2020-04-21,Jaborá,0.0
+2020-04-22,Jaborá,0.0
+2020-04-23,Jaborá,1.0
+12/03/2020,Salete,0.0
+13/03/2020,Salete,0.0
+14/03/2020,Salete,0.0
+15/03/2020,Salete,0.0
+16/03/2020,Salete,0.0
+17/03/2020,Salete,0.0
+18/03/2020,Salete,0.0
+19/03/2020,Salete,0.0
+20/03/2020,Salete,0.0
+21/03/2020,Salete,0.0
+22/03/2020,Salete,0.0
+23/03/2020,Salete,0.0
+24/03/2020,Salete,0.0
+25/03/2020,Salete,0.0
+26/03/2020,Salete,0.0
+27/03/2020,Salete,0.0
+28/03/2020,Salete,0.0
+29/03/2020,Salete,0.0
+30/03/2020,Salete,0.0
+31/03/2020,Salete,0.0
+01/04/2020,Salete,0.0
+02/04/2020,Salete,0.0
+03/04/2020,Salete,0.0
+04/04/2020,Salete,0.0
+05/04/2020,Salete,0.0
+06/04/2020,Salete,0.0
+07/04/2020,Salete,0.0
+08/04/2020,Salete,0.0
+09/04/2020,Salete,0.0
+10/04/2020,Salete,0.0
+11/04/2020,Salete,0.0
+12/04/2020,Salete,0.0
+2020-04-13,Salete,0.0
+2020-04-14,Salete,0.0
+2020-04-15,Salete,0.0
+2019-04-16,Salete,0.0
+2020-04-17,Salete,0.0
+2020-04-18,Salete,0.0
+2020-04-19,Salete,0.0
+2020-04-20,Salete,0.0
+2020-04-21,Salete,0.0
+2020-04-22,Salete,0.0
+2020-04-23,Salete,2.0
+12/03/2020,Vargem Bonita,0.0
+13/03/2020,Vargem Bonita,0.0
+14/03/2020,Vargem Bonita,0.0
+15/03/2020,Vargem Bonita,0.0
+16/03/2020,Vargem Bonita,0.0
+17/03/2020,Vargem Bonita,0.0
+18/03/2020,Vargem Bonita,0.0
+19/03/2020,Vargem Bonita,0.0
+20/03/2020,Vargem Bonita,0.0
+21/03/2020,Vargem Bonita,0.0
+22/03/2020,Vargem Bonita,0.0
+23/03/2020,Vargem Bonita,0.0
+24/03/2020,Vargem Bonita,0.0
+25/03/2020,Vargem Bonita,0.0
+26/03/2020,Vargem Bonita,0.0
+27/03/2020,Vargem Bonita,0.0
+28/03/2020,Vargem Bonita,0.0
+29/03/2020,Vargem Bonita,0.0
+30/03/2020,Vargem Bonita,0.0
+31/03/2020,Vargem Bonita,0.0
+01/04/2020,Vargem Bonita,0.0
+02/04/2020,Vargem Bonita,0.0
+03/04/2020,Vargem Bonita,0.0
+04/04/2020,Vargem Bonita,0.0
+05/04/2020,Vargem Bonita,0.0
+06/04/2020,Vargem Bonita,0.0
+07/04/2020,Vargem Bonita,0.0
+08/04/2020,Vargem Bonita,0.0
+09/04/2020,Vargem Bonita,0.0
+10/04/2020,Vargem Bonita,0.0
+11/04/2020,Vargem Bonita,0.0
+12/04/2020,Vargem Bonita,0.0
+2020-04-13,Vargem Bonita,0.0
+2020-04-14,Vargem Bonita,0.0
+2020-04-15,Vargem Bonita,0.0
+2019-04-16,Vargem Bonita,0.0
+2020-04-17,Vargem Bonita,0.0
+2020-04-18,Vargem Bonita,0.0
+2020-04-19,Vargem Bonita,0.0
+2020-04-20,Vargem Bonita,0.0
+2020-04-21,Vargem Bonita,0.0
+2020-04-22,Vargem Bonita,0.0
+2020-04-23,Vargem Bonita,1.0
